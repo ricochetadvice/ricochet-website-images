@@ -1,0 +1,2142 @@
+[
+ {
+  "slug": "wcet-builds-the-case-for-its-combined-value",
+  "title": "WCET Builds the Case for Its Combined Value",
+  "summary": "WCET asked Ricochet to redesign its brand architecture so both of its member groups can see why a combined membership is worth keeping.",
+  "sections": [
+   {
+    "heading": "What was holding WCET back?",
+    "body": "WCET, the technology-focused membership program of the Western Interstate Commission for Higher Education, serves more than 365 member institutions. Its members fall into two distinct groups of higher education professionals whose needs don't always overlap. As college and university budgets tighten, every membership faces closer review. WCET needed a clear way to show both audiences why the combined membership is worth keeping, and its brand was not making that case on its own."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet is leading a full brand architecture redesign that reaches into member benefits and product consolidation. The work draws on WCET's current messaging, collateral, member journey and competitive landscape. Ricochet is reviewing WCET's brand standards against its January 2026 visual refresh to set new visual design standards. The team is also documenting the member benefits available at each membership tier. Every piece is planned with future AI-assisted marketing collateral in mind."
+   },
+   {
+    "heading": "What changed for WCET's members?",
+    "body": "The work is still in progress, so results are not in yet. The goal is a clear, tested way for WCET to explain the value of belonging to both sides of its membership. When the redesign is complete, members in each group should be able to see which benefits come with their tier and why the combined membership serves them. That message will rest on research rather than assumption."
+   }
+  ],
+  "association": "WICHE Cooperative for Educational Technologies (WCET)",
+  "members": {
+   "display_label": "Member institutions",
+   "display": "365+",
+   "source_url": "https://www.wiche.edu/learning-technology/"
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "extra": [
+   {
+    "label": "Audiences",
+    "value": "Two distinct member groups"
+   },
+   {
+    "label": "Scope",
+    "value": "Full brand architecture redesign"
+   },
+   {
+    "label": "Brand Refresh",
+    "value": "January 2026 visual refresh"
+   }
+  ]
+ },
+ {
+  "slug": "cms-modernizes-its-marketing-technology",
+  "title": "CMS Modernizes Its Marketing Technology",
+  "summary": "Ricochet led the Colorado Medical Society's full HubSpot Marketing Hub implementation, completing more than 100 configuration tasks and training staff for the switch.",
+  "sections": [
+   {
+    "heading": "What was holding CMS back?",
+    "body": "The Colorado Medical Society (CMS) serves more than 6,000 members across all specialties and employment settings. Its marketing and membership communications needed a true home. CMS was also running an AMS implementation at the same time, so any new marketing system had to fit alongside that project and start with clean records. CMS turned to Ricochet to lead a full HubSpot Marketing Hub implementation."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet completed over 100 general and specific configuration tasks to build CMS's new HubSpot instance to spec. The team prepared integration documentation and coordinated with the integration developer while the AMS project ran in parallel. Before launch, Ricochet refreshed CMS's email templates with HubSpot's newer cloning tools and set up a starting set of automations. A data cleanup meant the new system began with clean records. Staff trained through weekly on-demand assignments plus live in-person sessions."
+   },
+   {
+    "heading": "What changed for CMS's members?",
+    "body": "CMS targeted a partial launch by Labor Day and a full launch by Halloween, with time set aside afterward to resolve bugs. Members now hear from CMS through refreshed email templates and automations built on clean records. Ricochet continues to provide HubSpot Evolution Coaching, which keeps CMS staff confident and current as they put the new system to work for the physicians they serve."
+   }
+  ],
+  "association": "Colorado Medical Society",
+  "members": {
+   "display_label": "Members",
+   "display": "6,000+",
+   "source_url": "https://www.cms.org/about/"
+  },
+  "services": [
+   "HubSpot"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "extra": [
+   {
+    "label": "Configuration Tasks",
+    "value": "Over 100"
+   },
+   {
+    "label": "Launch Timeline",
+    "value": "Partial by Labor Day, full by Halloween"
+   },
+   {
+    "label": "Ongoing Support",
+    "value": "HubSpot Evolution Coaching"
+   }
+  ]
+ },
+ {
+  "slug": "ncans-strategic-pivot-to-a-sustainable-membership-model",
+  "title": "NCAN\u2019s Strategic Pivot to a Sustainable Membership Model",
+  "summary": "Ricochet helped NCAN rethink its membership model, using stakeholder interviews and member data to build a phased strategy that balances inclusivity with financial resilience.",
+  "sections": [
+   {
+    "heading": "What was holding NCAN back?",
+    "body": "The National College Attainment Network (NCAN) works to close equity gaps in postsecondary attainment and has nearly 600 member organizations. Its mission was more critical than ever, but its membership structure had not kept pace. To scale its impact, NCAN needed a more sustainable, value-driven strategy that served the diverse needs of a growing network. That meant more than adjusting dues. NCAN wanted to rethink why organizations join and how membership works."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet started with a discovery phase built on in-depth stakeholder interviews and a close analysis of NCAN's member data and financial trends. Ricochet then led workshops with NCAN leadership to define core value propositions and find untapped growth opportunities. The result was a multi-phased Membership Model Strategy. Its roadmap gives NCAN data-backed recommendations on tiered pricing and enhanced member benefits, along with streamlined operating processes."
+   },
+   {
+    "heading": "What changed for NCAN's members?",
+    "body": "The new model ties membership directly to NCAN's strategic priorities. Tiered pricing gives organizations with diverse needs a fitting place in the network, and enhanced benefits give them clearer reasons to stay engaged. The framework balances mission-driven inclusivity with the financial resilience NCAN needs to lead the college attainment field for years to come, so members can count on a network built to last."
+   }
+  ],
+  "association": "National College Attainment Network (NCAN)",
+  "members": {
+   "display_label": "Member organizations",
+   "display": "Nearly 600",
+   "source_url": "https://www.ncan.org/Web/Web/AboutUs/About-Us.aspx"
+  },
+  "services": [
+   "Member Research",
+   "Membership Modeling"
+  ],
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "extra": [
+   {
+    "label": "Discovery",
+    "value": "Stakeholder interviews and member data analysis"
+   },
+   {
+    "label": "Deliverable",
+    "value": "Multi-phased Membership Model Strategy"
+   },
+   {
+    "label": "Recommendations",
+    "value": "Tiered pricing, enhanced benefits, streamlined operations"
+   }
+  ]
+ },
+ {
+  "slug": "corenet-global-expands-through-paid-media",
+  "title": "CoreNet Global Expands Through Paid Media",
+  "summary": "After cleaning CoreNet Global's data and growing its target audience by 25 percent, Ricochet ran paid media that beat the association's recruitment goals.",
+  "sections": [
+   {
+    "heading": "What was holding CoreNet Global back?",
+    "body": "CoreNet Global serves nearly 10,000 members in 50 countries and is a leader in the corporate real estate field. Its traditional recruitment methods needed a modern spark. Growth depended on reaching industry leaders where they spend their time online, and that called for a cleaner audience list and a sharper digital presence. CoreNet Global teamed up with Ricochet to overhaul its digital recruitment."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet began with list hygiene, scrubbing outdated information and adding data to expand CoreNet Global's target audience by 25 percent. With a clean foundation in place, the team balanced one master budget across LinkedIn, Reddit, Meta and AdRoll. Ricochet produced banner ads along with personalized weekly emails written for specific member personas. Each month the team held an optimization sprint, using real-time reporting to shift tactics and get the most from every dollar."
+   },
+   {
+    "heading": "What changed for CoreNet Global's members?",
+    "body": "Prospective members now see CoreNet Global's message on the channels they already use, and the emails they receive speak to their own persona rather than a generic audience. Because the team adjusts campaigns every month, outreach stays current instead of going stale. The program beat CoreNet Global's recruitment goals, which means more corporate real estate professionals are joining the community."
+   }
+  ],
+  "association": "CoreNet Global",
+  "members": {
+   "display_label": "Members",
+   "display": "Nearly 10,000",
+   "source_url": "https://www.corenetglobal.org/about-corenet-global/news/press-release-article/2026/03/04/corenet-global-announces-new-board-members"
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "extra": [
+   {
+    "label": "Audience Growth",
+    "value": "25%"
+   },
+   {
+    "label": "Ad Channels",
+    "value": "LinkedIn, Reddit, Meta, AdRoll"
+   },
+   {
+    "label": "Optimization",
+    "value": "Monthly optimization sprints"
+   }
+  ]
+ },
+ {
+  "slug": "njcpa-transitions-to-hubspot-to-power-multichannel-communications",
+  "title": "NJCPA Transitions to HubSpot to Power Multichannel Communications",
+  "summary": "Ricochet guided NJCPA's move from Adestra to HubSpot on a fixed schedule and budget, training staff for nearly four months so they could run the platform themselves.",
+  "sections": [
+   {
+    "heading": "What was holding NJCPA back?",
+    "body": "The New Jersey Society of Certified Public Accountants (NJCPA) serves nearly 13,000 members, and its email ran on Adestra. NJCPA wanted one unified marketing engine across many channels, which meant a complex move to HubSpot. The project called for enterprise-level configuration and AMS data integration project management, and staff needed training to run it. All of it had to happen on a strictly defined schedule and budget. NJCPA asked Ricochet to lead the effort."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet ran the project on a fixed schedule, opening with a Kickoff Workshop to align the teams and holding weekly status meetings throughout. Over nearly four months of weekly training sessions, Ricochet also delivered data integration mapping and HubSpot systems configuration. The team planned a communication preference center and gave guidance on email templates. NJCPA staff then built their own email templates and forms, along with the workflows behind them, taking ownership of the new platform."
+   },
+   {
+    "heading": "What changed for NJCPA's members?",
+    "body": "NJCPA members now hear from their society through far more than email. HubSpot powers texts, landing pages, social posts, ringless voicemail, online media and on-demand postcards. Ricochet also planned a communication preference center so members can have a say in what they receive. Because NJCPA staff build their own templates and workflows, they can respond to member needs without waiting on outside help."
+   }
+  ],
+  "association": "New Jersey Society of Certified Public Accountants (NJCPA)",
+  "members": {
+   "display_label": "Members",
+   "display": "Nearly 13,000",
+   "source_url": "https://njcpa.org/about"
+  },
+  "services": [
+   "HubSpot"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "extra": [
+   {
+    "label": "Training",
+    "value": "Nearly four months of weekly sessions"
+   },
+   {
+    "label": "Tools Replaced",
+    "value": "Adestra"
+   },
+   {
+    "label": "Channels Added",
+    "value": "Texts, landing pages, social, ringless voicemail, postcards"
+   }
+  ]
+ },
+ {
+  "slug": "ncada-transforms-a-pivotal-turning-point-into-a-growth-opportunity",
+  "title": "NCADA Transforms a Pivotal Turning Point into a Growth Opportunity",
+  "summary": "After more than a decade of membership decline, NCADA worked with Ricochet on member research and audits that produced a Membership Growth Strategy with a five-year financial projection.",
+  "sections": [
+   {
+    "heading": "What was holding NCADA back?",
+    "body": "The North Carolina Association of Defense Attorneys (NCADA) represents more than 800 attorneys and paralegals. For more than a decade, its membership had declined as traditional insurance defense work became a commodity. Business litigation opportunities were growing, but competition for member attention had never been higher. NCADA needed more than a quick fix. It needed a full strategic repositioning, so it partnered with Ricochet to find out what its members needed."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet began with membership value research, using quantitative surveys and qualitative interviews to uncover member needs. A membership model audit followed, examining everything from dues structures to peer benchmarks. At the same time, a technology audit found the infrastructure roadblocks that hurt the user experience and slowed member services and campaigns. Ricochet turned the findings into a Membership Growth Strategy. It pairs a roadmap for modern technology and updated benefits with a five-year financial projection and a step-by-step implementation plan."
+   },
+   {
+    "heading": "What changed for NCADA's members?",
+    "body": "The strategy updates NCADA's member benefits to match what today's litigators need, guided by what members said in surveys and interviews. Its technology roadmap targets the roadblocks that made member services and campaigns harder to use. With a clear plan in hand, NCADA can recruit the next generation of legal professionals instead of reacting to market shifts, and members gain an association that is growing again."
+   }
+  ],
+  "association": "North Carolina Association of Defense Attorneys (NCADA)",
+  "members": {
+   "display_label": "Members",
+   "display": "800+ attorneys and paralegals",
+   "source_url": "https://nclawyersweekly.com/2024/06/25/association-elects-new-slate-of-officers/"
+  },
+  "services": [
+   "Member Research",
+   "Membership Modeling"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "extra": [
+   {
+    "label": "Research",
+    "value": "Quantitative surveys and qualitative interviews"
+   },
+   {
+    "label": "Audits",
+    "value": "Membership model and technology"
+   },
+   {
+    "label": "Financial Projection",
+    "value": "Five years"
+   }
+  ]
+ },
+ {
+  "slug": "nata-modernizes-its-marketing-in-only-sixteen-weeks",
+  "title": "NATA Modernizes Its Marketing in Only Sixteen Weeks",
+  "summary": "NATA asked Ricochet to lead its move to HubSpot, replacing a tangle of separate tools with one platform that personalizes every member's journey.",
+  "sections": [
+   {
+    "heading": "What was holding NATA back?",
+    "body": "The National Athletic Trainers' Association (NATA) serves more than 45,000 members, but its marketing ran on a tangle of tools. Campaigns were manual chores that ate staff hours. The membership team waited in a central queue, and critical data sat in a silo. Social media comments went unanswered, and plain-text emails failed to inspire. NATA asked Ricochet to lead its move to HubSpot."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet is replacing NATA's fragmented set of apps, including Emma, Sprout Social and PropFuel, with one unified home in HubSpot. Instead of jumping between tools to send an email or post to social media, the team now coordinates every message from one place. The move opens new channels such as SMS marketing and automated staff tasks. Ricochet's strategy makes sure every touchpoint, from a text reminder to a LinkedIn post, works together for each trainer."
+   },
+   {
+    "heading": "What changed for NATA's members?",
+    "body": "NATA now uses automation to personalize each member's journey. A student sees different content than a professional, and renewal reminders stop the moment a member pays dues. Texts and social posts now work together with email instead of arriving from separate tools. With the busywork gone, NATA staff can spend their time serving athletic trainers rather than fighting outdated software or doing repetitive data entry."
+   }
+  ],
+  "association": "National Athletic Trainers' Association (NATA)",
+  "members": {
+   "display_label": "Members",
+   "display": "45,000+",
+   "source_url": "https://wfatt.org/nata"
+  },
+  "services": [
+   "HubSpot"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "extra": [
+   {
+    "label": "Launch Timeline",
+    "value": "Sixteen weeks"
+   },
+   {
+    "label": "Tools Replaced",
+    "value": "Emma, Sprout Social, PropFuel"
+   },
+   {
+    "label": "Channels Added",
+    "value": "SMS marketing"
+   }
+  ]
+ },
+ {
+  "slug": "cvma-navigates-critical-transitions-with-fractional-cmo",
+  "title": "CVMA Navigates Critical Transitions with Fractional CMO",
+  "summary": "When CVMA parted with its marketer four days before its membership drive, a Ricochet fractional CMO stepped in and protected the dues that fund the association.",
+  "sections": [
+   {
+    "heading": "What was holding CVMA back?",
+    "body": "Four days before the start of its large annual membership drive, the Colorado Veterinary Medical Association (CVMA) cut ties with a marketer who was not the right fit. The drive is a vital revenue stream, and the dues it brings in fund the entire operation. Whoever stepped in had to master a technical stack of Rhythm AMS and Mailchimp while writing in the empathetic, scientifically grounded voice veterinary professionals expect."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet provided a fractional CMO, Kirsten Rider, an industry veteran with 15 years of experience. She stabilized CVMA's marketing right away and met the drive's deadline. Kirsten worked through intricate technical segmentation and refreshed content across mobile and social platforms. Since then, she has split her time between high-level strategy and creative leadership. The fractional model gives CVMA executive-level expertise at a cost that makes sense for a state-level nonprofit."
+   },
+   {
+    "heading": "What changed for CVMA's members?",
+    "body": "Members got their membership drive on time, with refreshed content on mobile and social channels and messages segmented for different groups of veterinary professionals. Because the drive stayed on track, the dues that pay for CVMA's work were protected. CVMA marketing has since moved from reactive communications to strategic engagement, which keeps members connected to the association's advocacy and education programs."
+   }
+  ],
+  "association": "Colorado Veterinary Medical Association (CVMA)",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Fractional Staffing and Training",
+   "Membership Modeling"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "extra": [
+   {
+    "label": "Ramp Time",
+    "value": "Four days before the membership drive"
+   },
+   {
+    "label": "Tech Stack",
+    "value": "Rhythm AMS and Mailchimp"
+   },
+   {
+    "label": "CMO Experience",
+    "value": "15 years"
+   }
+  ]
+ },
+ {
+  "slug": "mipi-augments-marketing-with-ricochet-staff",
+  "title": "MIPI Augments Marketing with Ricochet Staff",
+  "summary": "MIPI Alliance needed more marketing output without more staff, so Ricochet placed a fractional marketer who doubled the assigned workload within the original budget.",
+  "sections": [
+   {
+    "heading": "What was holding MIPI back?",
+    "body": "MIPI Alliance develops standards for mobile and mobile-influenced devices and has more than 375 members. It had high growth ambitions in an increasingly competitive marketplace. MIPI knew it needed to increase its marketing communications, but it did not have staff who could do the work. It hired Ricochet to provide fractional marketing services."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet provided a team member with trade association expertise and fluency in HubSpot Marketing Hub, Monday project management and MIPI's other marketing software. The marketer jumped into the work right away, organizing the assets and clarifying deadlines before producing new work. In a short time, Ricochet's marketer exceeded MIPI's efficiency expectations and doubled the assigned workload, all within the original budget."
+   },
+   {
+    "heading": "What changed for MIPI's members?",
+    "body": "With twice the planned workload delivered, MIPI members receive more marketing communications from the alliance than the original plan allowed. The extra output came without a larger budget, so MIPI could grow its outreach to members while keeping costs where it planned them. A marketer already fluent in MIPI's tools also meant the work started right away instead of after a long ramp-up."
+   }
+  ],
+  "association": "MIPI Alliance",
+  "members": {
+   "display_label": "Member companies",
+   "display": "375+",
+   "source_url": "https://mipi.org/about-us"
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Science/Tech"
+  ],
+  "extra": [
+   {
+    "label": "Workload",
+    "value": "Doubled the assigned workload"
+   },
+   {
+    "label": "Budget",
+    "value": "Within the original budget"
+   },
+   {
+    "label": "Tools",
+    "value": "HubSpot Marketing Hub, Monday"
+   }
+  ]
+ },
+ {
+  "slug": "payo-rebuilds-its-membership-model",
+  "title": "PAYO Rebuilds Its Membership Model",
+  "summary": "After two payroll associations unified to form PayrollOrg, Ricochet helped design one membership model and tested new benefit packages with members in virtual focus groups.",
+  "sections": [
+   {
+    "heading": "What was holding PAYO back?",
+    "body": "PayrollOrg (PAYO) was created when two major payroll associations unified, and it now serves more than 20,000 members. The new organization had to forge a single, compelling membership model from two distinct legacies. Its goal was ambitious: enhance member value and build a stronger financial foundation through a revitalized dues structure. PAYO turned to Ricochet to research its members and estimate the financial return of new benefits."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet started with a full audit that cataloged every benefit from both legacy organizations. The team then benchmarked dues and offerings at similar associations to gauge market expectations and find room to stand apart. Working with PAYO, Ricochet designed new benefits and membership packages and tested them with members in virtual focus groups. A final report covered dues rate sensitivity, membership tier preferences, group membership and benefit assortment."
+   },
+   {
+    "heading": "What changed for PAYO's members?",
+    "body": "PAYO members helped shape the new model directly. Their reactions in virtual focus groups tested each benefit and package before anything was finalized. The final report shows how members respond to dues rates, which tiers they prefer and how they view group membership. That gives PAYO what it needs to offer members of both legacy organizations one model built around what they said they value."
+   }
+  ],
+  "association": "PayrollOrg (PAYO)",
+  "members": {
+   "display_label": "Members",
+   "display": "20,000+",
+   "source_url": "https://www.payroll.org/news-resources/news/news-detail/2026/04/20/where-payroll-professionals-grow-inside-payrollorg-s-member-resources"
+  },
+  "services": [
+   "Membership Modeling"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Finance"
+  ],
+  "extra": [
+   {
+    "label": "Legacy Organizations",
+    "value": "Two payroll associations"
+   },
+   {
+    "label": "Testing",
+    "value": "Virtual focus groups"
+   },
+   {
+    "label": "Report Topics",
+    "value": "Dues sensitivity, tier preferences, group membership, benefits"
+   }
+  ]
+ },
+ {
+  "slug": "nsta-boosts-efficiency-and-cuts-costs-with-strategic-outsourcing",
+  "title": "NSTA Boosts Efficiency and Cuts Costs with Strategic Outsourcing",
+  "summary": "When NSTA's Marketing Content Manager role opened up, Ricochet supplied an experienced digital copywriter who kept marketing moving and reduced costs while NSTA weighed staffing.",
+  "sections": [
+   {
+    "heading": "What was holding NSTA back?",
+    "body": "The National Science Teaching Association (NSTA) serves a community of 35,000 science educators and professionals. When its Marketing Content Manager role became vacant, NSTA needed to keep essential marketing going. Hiring a full-time replacement would take time and money, so the association wanted a reliable, flexible option instead. NSTA partnered with Ricochet to fill the gap with an experienced digital copywriter."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet assigned a skilled copywriter who had the technical expertise NSTA requested and experience in education-focused marketing. She fit into existing workflows quickly and produced audience-focused content in NSTA's distinct brand voice. Beyond writing, she recommended best practices and helped troubleshoot technical issues. She standardized email templates and used AI tools to speed up content development, while staying within her allocated hours. She soon became a trusted, go-to resource for the team."
+   },
+   {
+    "heading": "What changed for NSTA's members?",
+    "body": "NSTA members kept receiving steady, high-quality content while the role was open, written for the association's diverse audiences of science educators. Standardized email templates give members a more consistent experience from one message to the next. NSTA kept its marketing momentum and reduced costs, giving it room to evaluate long-term staffing needs without a gap in communication to members."
+   }
+  ],
+  "association": "National Science Teaching Association (NSTA)",
+  "members": {
+   "display_label": "Community",
+   "display": "35,000 science educators",
+   "source_url": "https://www.businesswire.com/news/home/20260608474293/en/"
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "extra": [
+   {
+    "label": "Role Filled",
+    "value": "Marketing Content Manager"
+   },
+   {
+    "label": "Staff Provided",
+    "value": "Digital copywriter"
+   },
+   {
+    "label": "Improvements",
+    "value": "Standardized email templates, AI tools"
+   }
+  ]
+ },
+ {
+  "slug": "ntma-chapters-get-engaged",
+  "title": "NTMA Chapters Get Engaged",
+  "summary": "Ricochet brought new energy to NTMA's two-day Chapter Leadership Summit with a presentation on membership engagement and skilled emcee work across both days.",
+  "sections": [
+   {
+    "heading": "What was holding NTMA back?",
+    "body": "The National Tooling & Machining Association (NTMA) represents 1,200 member companies with more than $8 billion in sales. Each year its two-day Chapter Leadership Summit brings national leaders and staff together with regional leaders and staff to exchange ideas and tackle association issues. NTMA wanted to inject new energy into the event. It asked Ricochet for a presentation on how trade organizations can strengthen membership engagement and an emcee to keep things running smoothly."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet developed fresh workshop content grounded in third-party research and its own experience. Rather than a lecture, the presentation brought the topic to life with common challenges and five detailed best practices that chapters could put to work right away. Ricochet also managed the event's speakers and introduced each session. The team facilitated the panel discussions and breakout sessions so the meeting stayed informative and engaging for everyone in the room."
+   },
+   {
+    "heading": "What changed for NTMA's members?",
+    "body": "NTMA's chapter leaders left the summit with five best practices they could apply right away to engage their own members. That gives member companies in each region a path to more active chapters. Because Ricochet kept the program moving, attendees spent their time on ideas and discussion rather than logistics. By all accounts, the summit hit the mark."
+   }
+  ],
+  "association": "National Tooling & Machining Association (NTMA)",
+  "members": {
+   "display_label": "Member companies",
+   "display": "1,200",
+   "source_url": "https://ntma.org/about/"
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Mfg/Retail"
+  ],
+  "extra": [
+   {
+    "label": "Event",
+    "value": "Chapter Leadership Summit"
+   },
+   {
+    "label": "Event Length",
+    "value": "Two days"
+   },
+   {
+    "label": "Best Practices",
+    "value": "Five"
+   }
+  ]
+ },
+ {
+  "slug": "asco-plans-strategic-membership-overhaul",
+  "title": "ASCO Plans Strategic Membership Overhaul",
+  "summary": "ASCO had a new membership model but no rollout plan, so Ricochet built a two-and-a-half-year plan with nine initiatives to help members understand and accept the change.",
+  "sections": [
+   {
+    "heading": "What was holding ASCO back?",
+    "body": "The American Society of Clinical Oncology (ASCO) has a network of nearly 50,000 oncology professionals. After years of study, it had crafted a strategic vision that reshaped its membership offering, from benefits to dues. The plan did not address how ASCO would put those changes into action. The new model was complex, with 48 benefits and multiple membership types, plus many dues rates and discounts. ASCO turned to Ricochet for help."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet assessed whether ASCO could communicate the changes to members and the market. The team weighed the risks: would members understand the changes and accept them, and could ASCO staff handle the rollout? Ricochet found ASCO needed to focus on awareness and acceptance as well as internal support. The team created nine major initiatives on a two-and-a-half-year timeline. It also recommended a project team structure and built a chart to keep everyone on track."
+   },
+   {
+    "heading": "What changed for ASCO's members?",
+    "body": "With a plan for awareness and acceptance in place, ASCO members can learn about the new benefits and dues in stages rather than all at once. The two-and-a-half-year timeline gives members time to understand a complex model. ASCO completed its model change approvals and moved forward with confidence that its staff could support members through the rollout."
+   }
+  ],
+  "association": "American Society of Clinical Oncology (ASCO)",
+  "members": {
+   "display_label": "Members",
+   "display": "Nearly 50,000",
+   "source_url": "https://society.asco.org/node/1326"
+  },
+  "services": [
+   "Membership Modeling"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "extra": [
+   {
+    "label": "Benefits",
+    "value": "48"
+   },
+   {
+    "label": "Initiatives",
+    "value": "Nine"
+   },
+   {
+    "label": "Rollout Timeline",
+    "value": "Two and a half years"
+   }
+  ]
+ },
+ {
+  "slug": "dcpa-energizes-marketing-with-commerce-data",
+  "title": "DCPA Energizes Marketing with Commerce Data",
+  "summary": "Ricochet planned the connection between DCPA's ticketing system and HubSpot, auditing both systems and designing a new CRM structure to cut the manual work behind DCPA's promotions.",
+  "sections": [
+   {
+    "heading": "What was holding DCPA back?",
+    "body": "The Denver Center for the Performing Arts (DCPA) draws nearly one million attendees each year and already used HubSpot to market to prospects and patrons. But HubSpot was not connected to DCPA's ticketing and commerce system. Every promotion required extensive manual preparation, and the workload was overwhelming staff. DCPA asked Ricochet for guidance on how best to connect the two systems."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet audited DCPA's dated ticketing system, studying its API features to see how data could move. The team also reviewed DCPA's HubSpot CRM customizations to confirm they were ready for integration. Ricochet then helped DCPA identify and evaluate third-party integration platforms that could bridge commerce and HubSpot. Finally, Ricochet designed an enhanced HubSpot CRM structure and wrote detailed systems integration documentation to simplify implementation. With planning complete, DCPA took over the project to connect the systems."
+   },
+   {
+    "heading": "What changed for DCPA's members?",
+    "body": "Once ticketing and commerce data flows into HubSpot, DCPA can shape promotions around what patrons have actually bought. Patrons can receive offers that reflect their own ticket history instead of broad messages assembled by hand. Staff spend less time on manual preparation, which frees them to plan better campaigns for the audiences who fill DCPA's seats."
+   }
+  ],
+  "association": "Denver Center for the Performing Arts (DCPA)",
+  "members": {
+   "display_label": "Annual attendees",
+   "display": "Nearly 1 million",
+   "source_url": "https://en.wikipedia.org/wiki/Denver_Center_for_the_Performing_Arts"
+  },
+  "services": [
+   "HubSpot"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "extra": [
+   {
+    "label": "Integration",
+    "value": "Ticketing and commerce to HubSpot"
+   },
+   {
+    "label": "Deliverables",
+    "value": "CRM redesign and integration documentation"
+   },
+   {
+    "label": "Handoff",
+    "value": "DCPA completed the connection"
+   }
+  ]
+ },
+ {
+  "slug": "leadingage-streamlines-its-communication-chaos",
+  "title": "LeadingAge Streamlines Its Communication Chaos",
+  "summary": "Ricochet found that LeadingAge received 22,000 inquiries a year, many unanswered, and built a service strategy to address an estimated 45,000 hours of lost productivity each year.",
+  "sections": [
+   {
+    "heading": "What was holding LeadingAge back?",
+    "body": "LeadingAge has 5,300 members, nonprofit providers of aging services across the nation. Its website lacked even a basic Contact Us page, so members and the public reached out to staff directly for help. As the organization grew, that approach overwhelmed staff and response rates declined. LeadingAge turned to Ricochet to find a better way to handle the questions coming in."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet analyzed inbound requests and found 22,000 inquiries a year arriving by phone, email, mail, social media and even fax. A significant portion went unanswered, and the interruptions cost staff an estimated 45,000 hours of productivity each year. Ricochet built a service strategy based on industry best practices. It covers staffing and training, standardized responses, upgraded phones, a new ticket system and revamped internal processes, along with response goals and expense estimates."
+   },
+   {
+    "heading": "What changed for LeadingAge's members?",
+    "body": "The plan gives members who contact LeadingAge a clear path to an answer. With a ticket system and upgraded phones, questions get tracked instead of lost, and standardized responses help staff reply to common questions faster. Response performance goals and analytics standards let LeadingAge measure how well it serves members. Productivity projections show how much staff time the plan can return to member work."
+   }
+  ],
+  "association": "LeadingAge",
+  "members": {
+   "display_label": "Member organizations",
+   "display": "5,300",
+   "source_url": "https://leadingage.org/about-us"
+  },
+  "services": [
+   "Membership Modeling",
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "extra": [
+   {
+    "label": "Annual Inquiries",
+    "value": "22,000"
+   },
+   {
+    "label": "Lost Productivity",
+    "value": "45,000 hours per year (estimated)"
+   },
+   {
+    "label": "New Tools",
+    "value": "Ticket system and upgraded phones"
+   }
+  ]
+ },
+ {
+  "slug": "acep-translates-its-technology-strategy-into-a-roadmap",
+  "title": "ACEP Translates Its Technology Strategy into a Roadmap",
+  "summary": "Ricochet turned ACEP's ambitious technology strategy into a five-year roadmap, with new systems phased in to limit disruption and detailed projections of upfront and ongoing costs.",
+  "sections": [
+   {
+    "heading": "What was holding ACEP back?",
+    "body": "The American College of Emergency Physicians (ACEP) serves more than 38,000 members across emergency medicine. Another consultancy had written ACEP an ambitious strategic technology plan, but the plan did not explain how to reach its vision. ACEP needed a roadmap, not just a destination. It partnered with Ricochet to turn the strategy into manageable changes it could carry out."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet evaluated ACEP's current systems to see which fit the planned future. The team found a need for new learning management, financial management, association management and marketing solutions. Because too much change at once could overwhelm staff, Ricochet set a five-year timeline that accounts for how the systems will work together and keeps disruption to daily operations low. Ricochet also organized demos with leading association software providers and built projections of upfront and ongoing costs."
+   },
+   {
+    "heading": "What changed for ACEP's members?",
+    "body": "Phasing new systems over five years keeps ACEP's day-to-day services to members running while upgrades happen, and staff are not overwhelmed by change. The new learning management and association management systems are planned to work together, which points toward a more connected experience for members over time. With the roadmap and budget set, ACEP is ready to begin its digital transformation."
+   }
+  ],
+  "association": "American College of Emergency Physicians (ACEP)",
+  "members": {
+   "display_label": "Members",
+   "display": "38,000+",
+   "source_url": "https://www.acep.org/who-we-are/about-us"
+  },
+  "services": [
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "extra": [
+   {
+    "label": "Roadmap Length",
+    "value": "Five years"
+   },
+   {
+    "label": "New Systems",
+    "value": "Learning, financial, association management, marketing"
+   },
+   {
+    "label": "Extras",
+    "value": "Vendor demos and cost projections"
+   }
+  ]
+ },
+ {
+  "slug": "hardis-future-focused-conference-session",
+  "title": "HARDI's Future-Focused Conference Session",
+  "summary": "HARDI asked Ricochet to design a conference session that would get HVAC distributors thinking about how customer needs are changing and how their businesses should respond.",
+  "sections": [
+   {
+    "heading": "What was holding HARDI back?",
+    "body": "Heating, Air-conditioning & Refrigeration Distributors International (HARDI) wanted to shake up its annual conference. Members were busy running their businesses and had little room to step back and think about where customer needs were heading. HARDI wanted a session that would bring a fresh perspective to the agenda and get people talking about the future of HVAC wholesale. It asked Ricochet to develop an in-person session built for that conversation."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet researched B2B prospecting and service trends across a range of industries. We then applied those trends directly to the HVAC wholesale world, so attendees could see what the shifts meant for their own companies. To keep the room engaged, we designed interactive exercises that had attendees brainstorm how to adapt in both the short and long term. A tornado warning the night before added an unexpected jolt of energy to the discussions."
+   },
+   {
+    "heading": "What changed for HARDI's members?",
+    "body": "Attendees left the session with practical ideas they could take back to their companies. They had worked through how to update their technology and processes, and even how to shift company culture, to keep pace with what their customers now expect. Instead of hearing a lecture about trends in other industries, members spent the session applying those trends to their own businesses alongside peers facing the same changes."
+   }
+  ],
+  "association": "Heating, Air-conditioning & Refrigeration Distributors International (HARDI)",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": "Individual",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Format",
+    "value": "In-person conference session"
+   },
+   {
+    "label": "Research Focus",
+    "value": "B2B prospecting and service trends"
+   },
+   {
+    "label": "Takeaways",
+    "value": "Ideas on technology, process and culture"
+   }
+  ]
+ },
+ {
+  "slug": "finseca-creates-a-new-membership-model",
+  "title": "Finseca Creates a New Membership Model",
+  "summary": "After a merger of two associations, Finseca worked with Ricochet to design one membership model with new tiers, tested dues projections and a plan to introduce it.",
+  "sections": [
+   {
+    "heading": "What was holding Finseca back?",
+    "body": "Finseca formed when two established financial professional associations merged. Today it has over 15,000 members, but at the start it carried two sets of membership structures and benefits. Leadership needed to combine them into a single offering that made sense and appealed to members of both legacy groups. That meant hard choices about which benefits to keep and what to charge. Finseca partnered with Ricochet to work through those decisions."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet audited the membership materials from both legacy associations. Working closely with Finseca's senior executives, we identified which benefits were sustainable and fit the vision of the new association. We proposed membership tiers with different dues rates designed for different member needs and budgets. We ran detailed financial projections across many scenarios to estimate likely dues revenue. Once the model was final, we wrote a communication plan and handed execution to Finseca's marketing department."
+   },
+   {
+    "heading": "What changed for Finseca's members?",
+    "body": "Members and prospects now see one Finseca membership instead of two inherited systems. They can choose a tier that matches their needs and budget, with benefits the association has confirmed it can sustain. Existing and potential members were introduced to the new organization through a series of targeted messages that explained its benefits and opportunities, so the change arrived with a clear story about what Finseca would offer them."
+   }
+  ],
+  "association": "Finseca",
+  "members": {
+   "display_label": "Members",
+   "display": "15,000+",
+   "source_url": "https://www.finseca.org/about/"
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "member_type": "Individual",
+  "industry": "Finance",
+  "extra": [
+   {
+    "label": "Origin",
+    "value": "Merger of two associations"
+   },
+   {
+    "label": "Deliverables",
+    "value": "Tiers, dues projections, communication plan"
+   }
+  ]
+ },
+ {
+  "slug": "cha-upgrades-email-and-texting-with-hubspot",
+  "title": "CHA Upgrades Email and Texting with HubSpot",
+  "summary": "The Catholic Health Association moved from Higher Logic Real Magnet to HubSpot Marketing Hub, added SMS texting and launched on schedule with Ricochet's plan and documentation.",
+  "sections": [
+   {
+    "heading": "What was holding CHA back?",
+    "body": "The Catholic Health Association of the United States (CHA) represents over 600 hospitals and 1,600 long-term care and other health facilities across all 50 states. CHA wanted more personalized, automated email for this diverse audience, but its Higher Logic Real Magnet system could not keep up. Staff had no way to reach people by text. CHA turned to Ricochet to guide it through selecting and implementing a new solution."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet evaluated HubSpot Marketing Hub to confirm it met CHA's requirements and negotiated a fair price. We helped CHA choose a third-party SMS marketing tool, opening a new channel. After assessing integration platforms, we determined that CHA's skilled IT team could connect HubSpot to its Aptify AMS in-house. To support that work, we identified and documented about 200 data fields that needed to sync with the AMS in real time."
+   },
+   {
+    "heading": "What changed for CHA's members?",
+    "body": "CHA can now send members more personalized and automated email, and it can reach them by text message for the first time. Because about 200 fields sync with the Aptify AMS in real time, the messages members receive draw on current data. The CHA team used Ricochet's documentation to finish the integration quickly, and the project launched successfully and on schedule using Ricochet's implementation plan and go-live checklist."
+   }
+  ],
+  "association": "Catholic Health Association of the United States (CHA)",
+  "members": {
+   "display_label": "Facilities",
+   "display": "600+ hospitals and 1,600 long-term care facilities",
+   "source_url": "https://chausa.org/member-center"
+  },
+  "services": [
+   "HubSpot",
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": "Trade",
+  "industry": "Healthcare",
+  "extra": [
+   {
+    "label": "Tools Replaced",
+    "value": "Higher Logic Real Magnet"
+   },
+   {
+    "label": "Channels Added",
+    "value": "SMS text messaging"
+   },
+   {
+    "label": "Data Fields",
+    "value": "Approximately 200 synced with Aptify AMS"
+   }
+  ]
+ },
+ {
+  "slug": "aota-transforms-marketing-with-hubspot",
+  "title": "AOTA Transforms Marketing with HubSpot",
+  "summary": "AOTA replaced an outdated email system with HubSpot Marketing Hub, with Ricochet finishing four project tracks in 14 weeks and migrating over 400,000 records.",
+  "sections": [
+   {
+    "heading": "What was holding AOTA back?",
+    "body": "The American Occupational Therapy Association (AOTA) represents more than 244,500 occupational therapists, occupational therapy assistants and students. It wanted to change how it interacted with members, event attendees and customers, but its outdated email system stood in the way. AOTA selected HubSpot Marketing Hub to replace it and chose Ricochet to implement the new platform and train its staff."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet led the HubSpot implementation and completed four project tracks in just 14 weeks. We configured the system, including email templates, forms, automations, data hygiene and core technical settings. We oversaw AOTA's work to bring over 400,000 records from its AMS into HubSpot. We trained staff to pass the HubSpot Marketing Software Certification Exam. We also rebuilt the email preference center with new subscription categories and a stronger data privacy policy."
+   },
+   {
+    "heading": "What changed for AOTA's members?",
+    "body": "Members now manage their email through a revamped preference center with new subscription categories, backed by a stronger data privacy policy. The new system launched on time with few surprises. AOTA kept Ricochet on for year-round support, and we work with the team to keep improving the outbound communications members receive and the association's wider digital marketing strategy."
+   }
+  ],
+  "association": "American Occupational Therapy Association (AOTA)",
+  "members": {
+   "display_label": "Professionals represented",
+   "display": "244,500+",
+   "source_url": "https://www.aota.org/about"
+  },
+  "services": [
+   "HubSpot",
+   "Brand and Campaign Studio"
+  ],
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "extra": [
+   {
+    "label": "Launch Timeline",
+    "value": "Four project tracks in 14 weeks"
+   },
+   {
+    "label": "Records Migrated",
+    "value": "Over 400,000"
+   },
+   {
+    "label": "Tools Replaced",
+    "value": "Outdated email system"
+   }
+  ]
+ },
+ {
+  "slug": "anitab-launches-membership-in-record-time",
+  "title": "AnitaB Launches Membership in Record Time",
+  "summary": "AnitaB.org launched its first membership program 102 days after kickoff, with sixteen benefits and a recruitment campaign, and hit its first-year goal within thirty days.",
+  "sections": [
+   {
+    "heading": "What was holding AnitaB back?",
+    "body": "AnitaB.org (AnitaB) had long relied on its renowned annual conference and strong corporate sponsorships. Its leaders worried about depending so heavily on those sources. They wanted to diversify income and build a sense of community by introducing a membership program. The catch was timing. The program had to be running before the Annual Meeting, just four months away. AnitaB brought in Ricochet to lead the effort."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet used a minimum viable product approach and focused on the essentials. We cut through red tape by forming a small, empowered AnitaB team that could make decisions quickly. We chose and implemented an association management system to handle the back end. We developed an offering of sixteen member benefits and built a recruitment campaign to promote them. The membership program launched 102 days after the project kicked off, with days to spare."
+   },
+   {
+    "heading": "What changed for AnitaB's members?",
+    "body": "For the first time, people in the AnitaB community could join as members and access sixteen benefits designed for them. The response was fast. Within thirty days of launch, AnitaB reached its first-year recruitment goal. Membership gave supporters a new way to belong to the organization beyond the annual conference, and it gave AnitaB a source of revenue that does not depend on sponsorships alone."
+   }
+  ],
+  "association": "AnitaB.org",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "member_type": "Individual",
+  "industry": "Science/Tech",
+  "extra": [
+   {
+    "label": "Launch Timeline",
+    "value": "102 days"
+   },
+   {
+    "label": "Member Benefits",
+    "value": "Sixteen"
+   },
+   {
+    "label": "Results",
+    "value": "First-year recruitment goal in thirty days"
+   }
+  ]
+ },
+ {
+  "slug": "aenc-shares-membership-best-practices-at-bootcamp",
+  "title": "AENC Shares Membership Best Practices at Bootcamp",
+  "summary": "Ricochet turned its ten-week Association Academy Member Growth course into a two-day, six-hour in-person bootcamp for AENC members at their summit.",
+  "sections": [
+   {
+    "heading": "What was holding AENC back?",
+    "body": "Members of the Association Executives of North Carolina (AENC) had seen Ricochet's Association Academy Member Growth course and wanted that content at their upcoming summit. The course ran online over ten weeks, which did not fit an in-person event. Many AENC members lead smaller organizations with their own needs and constraints. AENC asked Ricochet whether the course could become an engaging in-person workshop."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet condensed the ten-week online course into a fast-paced, two-day, six-hour bootcamp. We tailored the content for smaller organizations. In place of a lecture, we ran open discussions and used quizzes to reinforce learning and spark conversation. We encouraged attendees to share their own membership strategies and collateral, so peers could learn from each other. For those who wanted more, we offered the regular live course, which carries CAE credit."
+   },
+   {
+    "heading": "What changed for AENC's members?",
+    "body": "AENC members left the summit with practical membership growth ideas suited to the size of their organizations. They also walked away with examples from peers who had shared their own strategies and collateral in the room. Attendees who wanted to keep going had a clear next step in Ricochet's live course, where they could go deeper on membership growth and earn CAE credit."
+   }
+  ],
+  "association": "Association Executives of North Carolina (AENC)",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": "Individual",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Format",
+    "value": "Two-day, six-hour bootcamp"
+   },
+   {
+    "label": "Source Course",
+    "value": "Ten-week online course"
+   }
+  ]
+ },
+ {
+  "slug": "aapa-grows-with-tiered-membership",
+  "title": "AAPA Grows With Tiered Membership",
+  "summary": "AAPA had approved a tiered membership model but lacked the staff to roll it out, so Ricochet led a year-long implementation that hit its revenue goals.",
+  "sections": [
+   {
+    "heading": "What was holding AAPA back?",
+    "body": "The American Academy of Physician Associates (AAPA) has 73,000 members. After careful research, AAPA concluded that membership tiers with different benefits and rates could increase revenue, and its leadership approved the change. There was a hitch. AAPA did not have the staff to handle everything the new model required across its systems and departments. It hired Ricochet to lead the work."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet led a year-long project to put the new membership model in place. This was a major overhaul. We coordinated a large team drawn from multiple departments. On the technical side, the work included changes to the association management system and the learning management system. On the financial side, the ledger had to be updated. We also covered member-facing pieces, including communications and customer care scripts."
+   },
+   {
+    "heading": "What changed for AAPA's members?",
+    "body": "AAPA members can now choose from membership tiers that offer different benefits at different rates, instead of a single offering. Because communications and customer care scripts were updated alongside the systems, members heard a consistent explanation of the new tiers when they reached out. AAPA launched the tiers successfully and hit its revenue goals with precision."
+   }
+  ],
+  "association": "American Academy of Physician Associates (AAPA)",
+  "members": {
+   "display_label": "Members",
+   "display": "73,000",
+   "source_url": "https://en.wikipedia.org/wiki/American_Academy_of_Physician_Associates"
+  },
+  "services": [
+   "Membership Modeling"
+  ],
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "extra": [
+   {
+    "label": "Project Length",
+    "value": "Year-long"
+   },
+   {
+    "label": "Systems Changed",
+    "value": "AMS, LMS and ledger"
+   },
+   {
+    "label": "Results",
+    "value": "Hit revenue goals"
+   }
+  ]
+ },
+ {
+  "slug": "aao-hns-a-bold-plan-for-membership-renewal",
+  "title": "AAO-HNS Creates a Bold Plan for Membership Renewal",
+  "summary": "Facing its first major dues increase in years, AAO-HNS worked with Ricochet on tested renewal messaging and materials, exceeding revenue goals with minimal member complaints.",
+  "sections": [
+   {
+    "heading": "What was holding AAO-HNS back?",
+    "body": "The American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) has approximately 13,000 members. After years of stable rates, it needed to raise dues significantly, which meant core physician members would pay over $1,000. The organization knew the move was risky. Without a solid communication strategy, it could face backlash at renewal time. AAO-HNS partnered with Ricochet to handle the change with care."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet wrote a range of messaging options and researched them with AAO-HNS members to find which ones might draw negative feedback. With those findings, we guided the marketing team on the wording and design of renewal emails. We fully redesigned the printed and faxed renewal materials and worked with the printer and mailer on production. We set clear targets for the campaign and built a real-time view so staff could monitor progress as renewals came in."
+   },
+   {
+    "heading": "What changed for AAO-HNS's members?",
+    "body": "Members received renewal emails and printed materials with wording that had been tested with their peers before it went out. The dues increase reached them with a clear explanation instead of a surprise. Complaints from members about the higher dues were minimal, and AAO-HNS exceeded its revenue goals for the renewal campaign, setting it up for continued growth."
+   }
+  ],
+  "association": "American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS)",
+  "members": {
+   "display_label": "Members",
+   "display": "About 13,000",
+   "source_url": "https://entnet.org/about-us"
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "extra": [
+   {
+    "label": "New Dues",
+    "value": "Over $1,000 for core physician members"
+   },
+   {
+    "label": "Results",
+    "value": "Exceeded revenue goals, minimal complaints"
+   }
+  ]
+ },
+ {
+  "slug": "wscpas-content-marketing-makeover",
+  "title": "WSCPA's Content Marketing Makeover",
+  "summary": "WSCPA moved from Adestra to HubSpot Marketing Hub and launched a content-led recruitment campaign that uses free resources to guide prospects toward paid membership.",
+  "sections": [
+   {
+    "heading": "What was holding WSCPA back?",
+    "body": "The Washington Society of Certified Public Accountants (WSCPA) has more than 6,500 members and wanted a fresh way to attract new ones. Its outdated Adestra email solution limited the kind of marketing campaigns staff could create and manage. WSCPA also needed to produce high-quality recruitment materials while staying within budget. It turned to Ricochet for a new approach."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet suggested drawing prospects in with free, high-quality content and then guiding them toward paid membership. We implemented HubSpot Marketing Hub to replace Adestra and supported its integration with WSCPA's AM.net AMS. We then worked with WSCPA's in-house creative team to launch a new recruitment campaign that showcased the society's thought leadership and practical resources. Ricochet guided the design and copywriting so every piece matched WSCPA's brand."
+   },
+   {
+    "heading": "What changed for WSCPA's members?",
+    "body": "Prospective members now meet WSCPA through free thought leadership and practical resources before they are asked to join. That gives them a direct look at the value of membership. Because HubSpot connects with the AM.net AMS, WSCPA can run more sophisticated campaigns that guide each prospect from free content toward paid membership."
+   }
+  ],
+  "association": "Washington Society of Certified Public Accountants (WSCPA)",
+  "members": {
+   "display_label": "Members",
+   "display": "6,500+",
+   "source_url": "https://wscpa.org/about-wscpa"
+  },
+  "services": [
+   "HubSpot",
+   "Brand and Campaign Studio"
+  ],
+  "member_type": "Individual",
+  "industry": "Finance",
+  "extra": [
+   {
+    "label": "Tools Replaced",
+    "value": "Adestra"
+   },
+   {
+    "label": "AMS Integrated",
+    "value": "AM.net"
+   }
+  ]
+ },
+ {
+  "slug": "vmae-debates-strategies-for-membership-growth",
+  "title": "VMAE Debates Strategies for Membership Growth",
+  "summary": "Ricochet designed a four-hour membership growth workshop for thirty senior executives of veterinary associations, using real-time polls to gather insights from the room.",
+  "sections": [
+   {
+    "heading": "What was holding VMAE back?",
+    "body": "Veterinary Medical Association Executives (VMAE) meets in person so leaders of veterinary care associations can share best practices and wrestle with industry issues. Attracting and keeping members is one of the biggest of those issues. For a recent conference, VMAE wanted a workshop with real impact on how its members approach membership growth. It turned to Ricochet to design it."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet designed a four-hour workshop for thirty senior executives from veterinary care associations across the country. We built 150 slides covering a wide range of membership growth strategies. Ten real-time polls gathered insights from the room as the session went on. Topics included revamping member benefits, using data to make decisions, building digital experiences, improving dues collection and launching membership campaigns."
+   },
+   {
+    "heading": "What changed for VMAE's members?",
+    "body": "VMAE members spent the workshop in discussion with peers, comparing their own experiences attracting and retaining members. The real-time polls gave them a view of how other veterinary associations approach the same challenges. Each executive left with a broad set of membership growth strategies to weigh for their own association."
+   }
+  ],
+  "association": "Veterinary Medical Association Executives (VMAE)",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": "Trade",
+  "industry": "Healthcare",
+  "extra": [
+   {
+    "label": "Attendees",
+    "value": "Thirty senior executives"
+   },
+   {
+    "label": "Workshop Length",
+    "value": "Four hours"
+   },
+   {
+    "label": "Content",
+    "value": "150 slides, ten real-time polls"
+   }
+  ]
+ },
+ {
+  "slug": "smithbucklin-pioneers-the-virtual-event-frontier",
+  "title": "Smithbucklin Pioneers the Virtual Event Frontier",
+  "summary": "Smithbucklin worked with Ricochet to turn lessons from its surge of virtual and hybrid events in 2020 and 2021 into an 18-page research paper on the future of events.",
+  "sections": [
+   {
+    "heading": "What was holding Smithbucklin back?",
+    "body": "The events industry was turned upside down in 2020. Smithbucklin, a major association management and events company, produced 72 virtual events that year and over 100 virtual or hybrid events in 2021. That made it a leading authority on virtual events, but its lessons lived with the staff who ran them. Smithbucklin partnered with Ricochet to capture that experience and chart a course for future events."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet ran seven internal listening sessions with over 40 Smithbucklin employees who had worked on the front lines of these events. We distilled their experience, from financial models to overall event business strategy, into an 18-page research paper. The paper identified three major shifts reshaping events and included best-practice checklists. It also featured success stories from Smithbucklin clients and an early glossary of new virtual event terms."
+   },
+   {
+    "heading": "What changed for Smithbucklin's members?",
+    "body": "Smithbucklin's clients now benefit from a written roadmap for virtual and hybrid events, built from the hands-on experience of the staff who produce them. The best-practice checklists and client success stories give the people planning those events a shared starting point. The research looks forward as well as back, so Smithbucklin can plan future events with a clear view of where the industry is going."
+   }
+  ],
+  "association": "Smithbucklin",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": "Trade",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Virtual Events",
+    "value": "72 in 2020, over 100 in 2021"
+   },
+   {
+    "label": "Listening Sessions",
+    "value": "Seven, with over 40 employees"
+   },
+   {
+    "label": "Deliverable",
+    "value": "18-page research paper"
+   }
+  ]
+ },
+ {
+  "slug": "sifma-expands-member-connections-with-hubspot",
+  "title": "SIFMA Expands Member Connections with HubSpot",
+  "summary": "SIFMA chose HubSpot Marketing Hub with Ricochet's guidance and connected it to its Protech AMS and Microsoft Dynamics 365 CRM to reach members beyond email.",
+  "sections": [
+   {
+    "heading": "What was holding SIFMA back?",
+    "body": "The Securities Industry and Financial Markets Association (SIFMA) has more than 500 member organizations. SIFMA wanted to move beyond email and connect with members in new ways, but it had no marketing automation platform. Its member data lived in a Protech AMS and a Microsoft Dynamics 365 CRM database. SIFMA turned to Ricochet for help choosing and setting up a solution."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet helped SIFMA select HubSpot Marketing Hub as its marketing automation platform and assisted with negotiations. We implemented an integrator so data flows between HubSpot and SIFMA's Protech AMS and Microsoft Dynamics 365 CRM. Our team led the HubSpot configuration, guided decisions about which third-party features to add, and trained SIFMA staff to use the platform. We continue to support SIFMA with enhancements and integration troubleshooting."
+   },
+   {
+    "heading": "What changed for SIFMA's members?",
+    "body": "SIFMA can now reach member organizations through marketing automation instead of email alone. Because HubSpot shares data with the AMS and the CRM, the messages members receive draw on the same records SIFMA staff use every day. Ongoing support from Ricochet keeps the integration running and brings new enhancements over time."
+   }
+  ],
+  "association": "Securities Industry and Financial Markets Association (SIFMA)",
+  "members": {
+   "display_label": "Member organizations",
+   "display": "500+",
+   "source_url": "https://sifma.org/about"
+  },
+  "services": [
+   "HubSpot",
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": "Trade",
+  "industry": "Finance",
+  "extra": [
+   {
+    "label": "Platform Chosen",
+    "value": "HubSpot Marketing Hub"
+   },
+   {
+    "label": "Systems Integrated",
+    "value": "Protech AMS, Microsoft Dynamics 365 CRM"
+   }
+  ]
+ },
+ {
+  "slug": "sfn-updates-newsletter-strategy-and-design",
+  "title": "SfN Updates Newsletter Strategy and Design",
+  "summary": "Ricochet audited the Society for Neuroscience's email newsletters against thirty others, redesigned the templates in Figma and coded them into HubSpot.",
+  "sections": [
+   {
+    "heading": "What was holding SfN back?",
+    "body": "The Society for Neuroscience (SfN) has over 30,000 members in more than 95 countries. Its email newsletter templates badly needed a refresh. Over time, each newsletter had evolved on its own, drifting away from corporate standards and best practices. The result was a set of newsletters that no longer looked or worked like they came from one organization. SfN asked Ricochet to fix it."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet audited SfN's email communications for usability, engagement and design. We compared SfN's performance against thirty other commercial and association newsletters. We collected feedback from key stakeholders and guided the new designs through many rounds of revisions in Figma, refining them to fit SfN's vision. Once the designs were approved, Ricochet coded all the templates into SfN's HubSpot marketing system."
+   },
+   {
+    "heading": "What changed for SfN's members?",
+    "body": "SfN members now receive newsletters with a consistent look and feel, whichever one lands in their inbox. The templates follow SfN's corporate standards and draw on best practices from thirty other newsletters, so members get designs built for usability and engagement rather than ones that drifted over time. Each issue now reads as part of one family."
+   }
+  ],
+  "association": "Society for Neuroscience (SfN)",
+  "members": {
+   "display_label": "Members",
+   "display": "30,000+",
+   "source_url": "https://sfn.org/about"
+  },
+  "services": [
+   "HubSpot",
+   "Brand and Campaign Studio"
+  ],
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "extra": [
+   {
+    "label": "Benchmark",
+    "value": "Thirty other newsletters"
+   },
+   {
+    "label": "Design Tool",
+    "value": "Figma"
+   }
+  ]
+ },
+ {
+  "slug": "saba-gives-itself-a-membership-makeover",
+  "title": "SABA Gives Itself a Membership Makeover",
+  "summary": "The San Antonio Bar Association worked with Ricochet to sharpen its value proposition, launch a season of recruitment materials and train staff on follow-up sales calls.",
+  "sections": [
+   {
+    "heading": "What was holding SABA back?",
+    "body": "The San Antonio Bar Association (SABA) needed to boost its membership numbers. Its value proposition was unclear, partly because it was hard to tell which resources were open to the public and which belonged only to members. SABA wanted stronger recruitment messages and new ways to reach potential members. It partnered with Ricochet to revitalize its membership strategy."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet started with SABA's member benefits and helped clarify which resources were public and which were for members only. That gave SABA a clearer value proposition. We then designed a membership growth campaign that featured SABA's new Member Center and other resources. We developed a full season of recruitment materials with messaging tailored to different types of members. We also trained SABA staff to make follow-up sales calls."
+   },
+   {
+    "heading": "What changed for SABA's members?",
+    "body": "Prospective members now see a clear line between what SABA offers the public and what comes with membership. Recruitment messages speak to their specific type of practice and point them to the new Member Center. Prospects who engage with the digital campaign but do not join get a follow-up call from SABA staff trained to have that conversation."
+   }
+  ],
+  "association": "San Antonio Bar Association (SABA)",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "member_type": "Individual",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Campaign",
+    "value": "Full season of recruitment materials"
+   },
+   {
+    "label": "Staff Training",
+    "value": "Follow-up sales calls"
+   }
+  ]
+ },
+ {
+  "slug": "rotary-develops-prospective-members",
+  "title": "Rotary Develops Prospective Members",
+  "summary": "Rotary International worked with Ricochet on a central lead warming campaign that used email, online ads and a landing page to guide prospects toward local chapters.",
+  "sections": [
+   {
+    "heading": "What was holding Rotary back?",
+    "body": "Rotary International has 1.24 million members and typically grows through its local chapters. The global membership team wanted to add to those traditional efforts with a central campaign that could attract potential members and nurture their interest. Rotary partnered with Ricochet to strengthen its marketing strategy and build a lead warming campaign."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet dug into Rotary's data to pinpoint promising prospects. We reached them through email and online ads that pointed to a dedicated landing page. The goal was to bring prospects into Rotary's free discussion forum and then pass them to local chapters for further engagement and membership. We introduced new ad-serving technology to Rotary's marketing toolkit and optimized the ads weekly to keep spending efficient across the multi-month campaign."
+   },
+   {
+    "heading": "What changed for Rotary's members?",
+    "body": "People interested in Rotary now have a way in before they ever attend a local meeting. They can join the free discussion forum, get to know the organization and then connect with a local chapter. Local clubs gain warmer prospects who already know something about Rotary and its community when they first arrive."
+   }
+  ],
+  "association": "Rotary International",
+  "members": {
+   "display_label": "Members",
+   "display": "1.24 million",
+   "source_url": "https://en.wikipedia.org/wiki/Rotary_International"
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "member_type": "Individual",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Channels",
+    "value": "Email, online ads, landing page"
+   },
+   {
+    "label": "Ad Optimization",
+    "value": "Weekly"
+   }
+  ]
+ },
+ {
+  "slug": "rh-isac-understands-their-members",
+  "title": "RH-ISAC Understands Their Members",
+  "summary": "Ricochet ran a global survey of current and prospective RH-ISAC members, analyzed 35 segments and over 400 open-ended responses, and delivered a roadmap for action.",
+  "sections": [
+   {
+    "heading": "What was holding RH-ISAC back?",
+    "body": "The Retail & Hospitality ISAC (RH-ISAC) has more than 300 Core Members. To serve them well, it needed to understand them better. Leaders wanted to know members' biggest business challenges, how satisfied they were with current benefits and what they wanted from the organization. RH-ISAC partnered with Ricochet to get those answers."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet created and ran a comprehensive global survey of current and prospective members, covering everything from demographics to opinions on possible new benefits. We managed the whole process, from preparing invitee data to tracking responses and choosing winners for response incentives. We analyzed results across 35 member segments and used AI to make sense of over 400 open-ended responses. The final report gave RH-ISAC concrete recommendations."
+   },
+   {
+    "heading": "What changed for RH-ISAC's members?",
+    "body": "Members had a direct say in what RH-ISAC offers next, and their answers now shape its plans. Ricochet's recommendations show RH-ISAC how to improve member benefits and email communication so membership becomes more valuable and engaging. With a clear picture of what is working and what is not, RH-ISAC is ready to strengthen ties with current members and attract new ones."
+   }
+  ],
+  "association": "Retail & Hospitality Information Sharing and Analysis Center (RH-ISAC)",
+  "members": {
+   "display_label": "Core members",
+   "display": "300+",
+   "source_url": "https://summit2026.rhisac.org/about/rh-isac-overview/"
+  },
+  "services": [
+   "Member Research"
+  ],
+  "member_type": "Trade",
+  "industry": "Science/Tech",
+  "extra": [
+   {
+    "label": "Member Segments",
+    "value": "35"
+   },
+   {
+    "label": "Open-Ended Responses",
+    "value": "Over 400"
+   },
+   {
+    "label": "Survey Scope",
+    "value": "Global, current and prospective members"
+   }
+  ]
+ },
+ {
+  "slug": "ncacpas-digital-transformation",
+  "title": "NCACPA's Digital Transformation",
+  "summary": "Ricochet set up HubSpot Marketing Hub for the North Carolina Association of CPAs and stayed on as a digital mentor to keep its member data clean.",
+  "sections": [
+   {
+    "heading": "What was holding NCACPA back?",
+    "body": "The North Carolina Association of Certified Public Accountants (NCACPA) serves a community of more than 12,000, and it wanted stronger engagement with its members and customers. Its marketing needed one platform to manage campaigns across channels. Any new tool also had to work with the NetForum AMS, where member records lived. NCACPA asked Ricochet to explore marketing automation and bring HubSpot Marketing Hub into its operation."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet implemented HubSpot Marketing Hub as NCACPA's platform for multi-channel marketing. Before connecting it to NetForum, the team ran thorough data hygiene reviews so clean records moved between the two systems. Ricochet then helped NCACPA develop campaign strategies for the new platform. Over time the role grew into digital mentorship. Ricochet gives ongoing HubSpot guidance and keeps adding to NCACPA's marketing toolkit while protecting the integrity of its data."
+   },
+   {
+    "heading": "What changed for NCACPA's members?",
+    "body": "NCACPA's members and customers now hear from an association that knows them better. Because HubSpot and NetForum share clean, matched data, messages can reflect each person's actual record instead of a generic list. Campaigns run across channels from one platform, so outreach feels more personal and more consistent. With Ricochet guiding the team, NCACPA is set up to build stronger connections with the people it serves."
+   }
+  ],
+  "association": "North Carolina Association of Certified Public Accountants (NCACPA)",
+  "members": {
+   "display_label": "Community",
+   "display": "12,000+",
+   "source_url": "https://www.ncacpa.org/about/"
+  },
+  "services": [
+   "HubSpot"
+  ],
+  "member_type": "Individual",
+  "industry": "Finance",
+  "extra": [
+   {
+    "label": "Platform",
+    "value": "HubSpot Marketing Hub"
+   },
+   {
+    "label": "AMS Integrated",
+    "value": "NetForum"
+   }
+  ]
+ },
+ {
+  "slug": "isa-explains-the-ai-future-with-seminar",
+  "title": "ISA Explains the AI Future with Seminar",
+  "summary": "Ricochet researched how AI is changing the sign industry and turned those findings into a hands-on training session for International Sign Association members.",
+  "sections": [
+   {
+    "heading": "What was holding ISA back?",
+    "body": "The International Sign Association (ISA) is a 2,000-member trade association, and it saw artificial intelligence rapidly changing the sign industry. Members were eager to learn what AI could do for their companies. They wanted to understand what is happening now and what is likely to come next. ISA did not have the in-house expertise to teach them, so it turned to Ricochet to close that knowledge gap."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet started with research instead of a pre-packaged lesson plan. The team studied the sign industry's specific AI challenges and opportunities and interviewed industry leaders about what is happening now and what they expect next. From those findings, Ricochet built a hands-on training session for ISA members. It explained how AI applies across the departments of a sign company and included live demonstrations of AI platforms at work."
+   },
+   {
+    "heading": "What changed for ISA's members?",
+    "body": "ISA members came away with a clearer view of AI and how it fits their own companies. The training did not avoid the hard parts. It covered the ethical and legal questions around AI, so members can adopt new tools with confidence. The live demos showed practical benefits they can take back to their teams, grounded in research about the sign industry rather than technology in general."
+   }
+  ],
+  "association": "International Sign Association (ISA)",
+  "members": {
+   "display_label": "Members",
+   "display": "2,000",
+   "source_url": "https://careers.pcma.org/profile/international-sign-association/463707/"
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": "Trade",
+  "industry": "Mfg/Retail",
+  "extra": [
+   {
+    "label": "Research",
+    "value": "Industry leader interviews"
+   },
+   {
+    "label": "Format",
+    "value": "Hands-on training with live AI demos"
+   },
+   {
+    "label": "Topics Added",
+    "value": "Ethics and legal issues"
+   }
+  ]
+ },
+ {
+  "slug": "isa-cleans-and-unifies-its-distributed-data",
+  "title": "ISA Cleans and Unifies Its Distributed Data",
+  "summary": "Before its new AMS went live, the International Sign Association asked Ricochet to review nearly 300,000 scattered records and clean them up for migration.",
+  "sections": [
+   {
+    "heading": "What was holding ISA back?",
+    "body": "The International Sign Association (ISA), a 2,000-member trade association, had contact and company data scattered across multiple systems, and the records did not agree with each other. The mess made daily business harder to manage. ISA was about to add a new AMS, and it worried that bad data would limit the new system's success. Ricochet was already helping ISA choose and negotiate that AMS."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet reviewed nearly 300,000 records with ISA and worked out which data was outdated or inaccurate. Together they made a plan to remove it, and almost 20,000 records were deleted. Ricochet then created and put in place new field standards so contact and company records matched across every system. To finish the project, Ricochet helped move the cleaned data into the new AMS."
+   },
+   {
+    "heading": "What changed for ISA's members?",
+    "body": "ISA members are now represented by accurate, consistent records in the new AMS. When a member's contact or company details appear in different systems, they match, because every system follows the same field standards. Outdated and inaccurate entries no longer clutter the database. That gives ISA a cleaner starting point for serving members through its new system and taking full advantage of what it offers."
+   }
+  ],
+  "association": "International Sign Association (ISA)",
+  "members": {
+   "display_label": "Members",
+   "display": "2,000",
+   "source_url": "https://careers.pcma.org/profile/international-sign-association/463707/"
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": "Trade",
+  "industry": "Mfg/Retail",
+  "extra": [
+   {
+    "label": "Records Reviewed",
+    "value": "Nearly 300,000"
+   },
+   {
+    "label": "Records Deleted",
+    "value": "Almost 20,000"
+   },
+   {
+    "label": "Outcome",
+    "value": "Clean data migrated to new AMS"
+   }
+  ]
+ },
+ {
+  "slug": "iiaba-explores-its-member-resources",
+  "title": "IIABA Explores Its Member Resources",
+  "summary": "Ricochet ran five focus groups for IIABA to learn how members really use its resources, then turned six key insights into five actionable recommendations.",
+  "sections": [
+   {
+    "heading": "What was holding IIABA back?",
+    "body": "The Independent Insurance Agents & Brokers of America (IIABA) supports nearly 25,000 independent agency locations nationwide. It knew its member resources could be better, but it was not sure where to start. IIABA needed to understand how members really felt about those resources and gather ideas for improving them. It asked Ricochet to find out directly from the members themselves."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet organized and ran five focus groups. Participants came from different locations and from insurance brokerages of different sizes, so every key member segment had a voice. Ricochet handled nearly the whole process, from writing the invitations through choosing the participants. The groups surfaced six key insights about how members see and use IIABA's resources. From that feedback, Ricochet delivered five actionable recommendations."
+   },
+   {
+    "heading": "What changed for IIABA's members?",
+    "body": "IIABA members got a direct say in the resources built for them. Agencies of different sizes and locations told IIABA in their own words what works and what falls short. With six insights and five recommendations in hand, IIABA can improve its resources based on what members actually need instead of guesses, so the tools they rely on deliver more value."
+   }
+  ],
+  "association": "Independent Insurance Agents & Brokers of America (IIABA, the Big \"I\")",
+  "members": {
+   "display_label": "Agency locations",
+   "display": "Nearly 25,000",
+   "source_url": "https://independentagent.com/AboutUs"
+  },
+  "services": [
+   "Member Research"
+  ],
+  "member_type": "Individual",
+  "industry": "Finance",
+  "extra": [
+   {
+    "label": "Focus Groups",
+    "value": "Five"
+   },
+   {
+    "label": "Key Insights",
+    "value": "Six"
+   },
+   {
+    "label": "Recommendations",
+    "value": "Five"
+   }
+  ]
+ },
+ {
+  "slug": "icf-attracts-coaches-with-seo-content",
+  "title": "ICF Attracts Coaches with SEO Content",
+  "summary": "Ricochet created a library of long-form, search-friendly articles that help the International Coaching Federation reach coaches looking for guidance and draw them to its website.",
+  "sections": [
+   {
+    "heading": "What was holding ICF back?",
+    "body": "The International Coaching Federation (ICF) has surpassed 59,000 members and carries a respected brand in professional coaching. ICF saw room to grow membership and sales on the strength of that brand, but first it needed more awareness and visibility. The first step was getting in front of coaches as they searched for information. ICF partnered with Ricochet to build content that would rank well in search."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet created a library of informative, long-form articles written to rank high in search results and give coaches useful insight. The team used SEO analysis tools and some artificial intelligence to shape the content. Ricochet also handled the technical side of content preparation, including original images and tagging, so each piece was ready to publish and easy for search engines to understand."
+   },
+   {
+    "heading": "What changed for ICF's members?",
+    "body": "Coaches who search for guidance can now find answers that come from ICF. The articles pair ICF's authority in the profession with content built to surface in search, which draws readers to the ICF website. For current members, the library is a trusted place to learn. For coaches who are not yet members, it can be their first useful encounter with ICF."
+   }
+  ],
+  "association": "International Coaching Federation (ICF)",
+  "members": {
+   "display_label": "Members",
+   "display": "59,000+",
+   "source_url": "https://coachingfederation.org/blog/united-by-purpose-driven-by-impact-2025-icf-annual-report/"
+  },
+  "services": [
+   "Brand and Campaign Studio"
+  ],
+  "member_type": "Individual",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Content Type",
+    "value": "Long-form SEO articles"
+   },
+   {
+    "label": "Extras",
+    "value": "Original images and tagging"
+   }
+  ]
+ },
+ {
+  "slug": "iaee-educates-members-with-ai-workshop",
+  "title": "IAEE Educates Members with AI Workshop",
+  "summary": "Ricochet tailored its AI training program into a three-hour workshop for IAEE's annual conference, guiding a standing-room crowd through seven hands-on AI experiments.",
+  "sections": [
+   {
+    "heading": "What was holding IAEE back?",
+    "body": "The International Association of Exhibitions and Events (IAEE) has more than 12,000 individual members in over 50 countries. Its conference attendees were eager to learn what AI could do for their work, and IAEE wanted to help them build real AI skills. It partnered with Ricochet to design a specialized workshop for its annual conference."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet took its existing AI training program and tailored it to the IAEE audience and its needs. The result was a three-hour workshop built around interactive lessons and real-world applications. IAEE offered it as an optional premium add-on for conference attendees. In the room, Ricochet's instructor guided participants through seven hands-on AI experiments."
+   },
+   {
+    "heading": "What changed for IAEE's members?",
+    "body": "Members showed up in force. The workshop filled every seat, and more attendees stood in the back to take part. Participants left with practical AI knowledge they had tried for themselves during the seven experiments, along with a deeper sense of how AI can improve the events they run. The premium format gave members a new way to build skills at the conference."
+   }
+  ],
+  "association": "International Association of Exhibitions and Events (IAEE)",
+  "members": {
+   "display_label": "Members",
+   "display": "12,000+",
+   "source_url": "https://www.iaee.com/about/"
+  },
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "member_type": "Trade",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Workshop Length",
+    "value": "Three hours"
+   },
+   {
+    "label": "AI Experiments",
+    "value": "Seven"
+   },
+   {
+    "label": "Attendance",
+    "value": "Full house, standing room"
+   }
+  ]
+ },
+ {
+  "slug": "hfa-starts-a-new-era-for-marketing-and-sales",
+  "title": "HFA Starts a New Era for Marketing and Sales",
+  "summary": "When its marketing director left, the Home Furnishings Association brought in Ricochet as a fractional CMO and project manager to modernize marketing and membership operations.",
+  "sections": [
+   {
+    "heading": "What was holding HFA back?",
+    "body": "The Home Furnishings Association (HFA) has more than 1,400 members representing over 10,000 storefronts. Its marketing foundation worked, but its tools and processes had fallen behind best practices. When the marketing director left, HFA leadership saw a chance to step back and rethink the approach. It wanted stronger marketing, membership, sales, and exhibit operations, and it turned to Ricochet."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet's Chief Consultant served as HFA's fractional CMO. He refreshed member benefits and rebuilt key parts of the marketing technology stack. He also coached the creative and marketing team as they took on new approaches to engaging members. Ricochet Consultant Chelsea Beran provided fractional project management. She brought project management software back across the organization and created standardized checklists for marketing and events."
+   },
+   {
+    "heading": "What changed for HFA's members?",
+    "body": "HFA members now get refreshed benefits and marketing that does a better job of reaching them. A creative team with new skills and a modern technology stack can engage members with fresher ideas. Behind the scenes, shared project software and standard checklists keep campaigns and events consistent, so members see an association that runs in an orderly way and is positioned for future success."
+   }
+  ],
+  "association": "Home Furnishings Association (HFA)",
+  "members": {
+   "display_label": "Members",
+   "display": "1,400+",
+   "source_url": "https://www.highpointmarket.org/exhibitor/4363"
+  },
+  "services": [
+   "Fractional Staffing and Training",
+   "Membership Modeling"
+  ],
+  "member_type": "Trade",
+  "industry": "Mfg/Retail",
+  "extra": [
+   {
+    "label": "Fractional Roles",
+    "value": "CMO and Project Manager"
+   },
+   {
+    "label": "Areas Covered",
+    "value": "Marketing, membership, sales, exhibits"
+   }
+  ]
+ },
+ {
+  "slug": "ficpa-expands-marketing-with-hubspot",
+  "title": "FICPA Expands Marketing with HubSpot",
+  "summary": "Ricochet moved the Florida Institute of CPAs from Adestra to HubSpot Marketing Hub, planning the AMS integration and training staff over more than three months.",
+  "sections": [
+   {
+    "heading": "What was holding FICPA back?",
+    "body": "The Florida Institute of CPAs (FICPA) has more than 20,000 members, and it wanted to broaden its marketing. Its Adestra email system was outdated and held the team back. FICPA chose to move to HubSpot Marketing Hub and knew it needed expert help with the implementation and staff training, so it asked Ricochet to oversee the work."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet first helped FICPA negotiate a strong deal for HubSpot and for a second integration platform to connect its AMS. The team then mapped the full data integration plan and drafted the technical requirements. Ricochet led staff training that ran more than three months and advised FICPA on redefining its marketing processes. Before launch, Ricochet also updated the privacy policy and email subscription options."
+   },
+   {
+    "heading": "What changed for FICPA's members?",
+    "body": "FICPA members now get email from a modern marketing platform connected to the AMS that holds their records. Updated email subscription options give members clearer control over the messages they receive, and a refreshed privacy policy explains how their information is handled. With trained staff and redesigned processes, FICPA can reach members through more of the channels HubSpot supports."
+   }
+  ],
+  "association": "Florida Institute of CPAs (FICPA)",
+  "members": {
+   "display_label": "Members",
+   "display": "20,000+",
+   "source_url": "https://www.ficpa.org/about"
+  },
+  "services": [
+   "HubSpot"
+  ],
+  "member_type": "Individual",
+  "industry": "Finance",
+  "extra": [
+   {
+    "label": "Tool Replaced",
+    "value": "Adestra email"
+   },
+   {
+    "label": "Staff Training",
+    "value": "Over three months"
+   },
+   {
+    "label": "Also Updated",
+    "value": "Privacy policy and subscriptions"
+   }
+  ]
+ },
+ {
+  "slug": "fei-powers-up-marketing",
+  "title": "FEI Powers Up Marketing",
+  "summary": "After assessing its marketing, Ricochet gave Financial Executives International a four-part plan and is now leading its search for a new, affordable AMS.",
+  "sections": [
+   {
+    "heading": "What was holding FEI back?",
+    "body": "Financial Executives International (FEI) needed a marketing makeover. It promotes memberships, subscriptions, courses, and conferences, and it wanted to work smarter across all of them. FEI needed a strategy to attract new members and keep current members engaged. Before choosing a direction, it asked Ricochet to assess what was already in place and find the changes that mattered most."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet reviewed FEI's existing marketing and systems and talked with key team members. From that work, it identified the biggest marketing hurdles and created a four-part plan to overcome them. A top need was a new, affordable AMS. Ricochet took the lead on that search, running a Request for Information process, finding potential vendors, handling communication, and building an evaluation scorecard. Ricochet is now helping FEI choose the best fit."
+   },
+   {
+    "heading": "What changed for FEI's members?",
+    "body": "The work is still in progress, but the direction for members is clear. A new AMS will help FEI gather more information about its members and share that data with its other systems. That means communication that is better targeted to each member, from membership offers to courses and conferences. The four-part plan gives FEI a path to attract new members and keep current ones engaged."
+   }
+  ],
+  "association": "Financial Executives International (FEI)",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": "Individual",
+  "industry": "Finance",
+  "extra": [
+   {
+    "label": "Plan",
+    "value": "Four-part marketing plan"
+   },
+   {
+    "label": "AMS Search",
+    "value": "RFI, vendor list, scorecard"
+   }
+  ]
+ },
+ {
+  "slug": "crew-charts-a-digital-future",
+  "title": "CREW Charts a Digital Future",
+  "summary": "Ricochet built a multi-year digital roadmap for CREW Network, using member surveys and staff interviews to shape a new structure for its marketing technology and teams.",
+  "sections": [
+   {
+    "heading": "What was holding CREW back?",
+    "body": "CREW Network (Commercial Real Estate Women) has more than 15,000 members around the globe and world-class goals for its digital presence. Reaching those goals took more than ambition. CREW needed a strategic plan for its marketing technology. It also needed an organization set up to give digital initiatives the priority they deserved. CREW asked Ricochet to create that plan."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet created a comprehensive multi-year digital roadmap. It drew on in-depth member surveys and staff interviews, backed by Ricochet's own ongoing research into association technology. The roadmap set a new organizational structure with new roles and reporting lines. It outlined a culture shift toward digital-first work through formal training and employee recognition. It also recommended project management tools and a new data management infrastructure with analytics."
+   },
+   {
+    "heading": "What changed for CREW's members?",
+    "body": "CREW's members helped shape the plan through the surveys, so the roadmap reflects what they want from the network. As CREW puts the new structure and data systems in place, it can run more efficiently and use data to make decisions about the member experience. Members can expect digital initiatives that get proper priority and a staff trained to put digital first."
+   }
+  ],
+  "association": "CREW Network (Commercial Real Estate Women Network)",
+  "members": {
+   "display_label": "Members",
+   "display": "15,000+",
+   "source_url": "https://crewnetwork.org/join"
+  },
+  "services": [
+   "Member Research",
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": "Individual",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Deliverable",
+    "value": "Multi-year digital roadmap"
+   },
+   {
+    "label": "Inputs",
+    "value": "Member surveys and staff interviews"
+   },
+   {
+    "label": "Org Changes",
+    "value": "New roles and reporting lines"
+   }
+  ]
+ },
+ {
+  "slug": "ans-evolves-membership-renewal",
+  "title": "ANS Evolves Membership Renewal",
+  "summary": "When the American Nuclear Society moved to rolling anniversary renewals, Ricochet rebuilt its renewal campaign with fresh design and messages tailored to six member types.",
+  "sections": [
+   {
+    "heading": "What was holding ANS back?",
+    "body": "The American Nuclear Society (ANS) has more than 10,000 members from over 40 countries. It made a big change to its membership model by switching to a rolling anniversary renewal date. The old renewal campaign was not built for that model, so its timing and messaging needed a serious overhaul. ANS asked Ricochet to rework the renewal effort from the ground up."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet changed the timing and frequency of renewal communications and added new ways to reach members. It wrote customized messages for six member types and designed a fresh look that matched ANS's updated brand, applied consistently across the campaign. Ricochet produced and implemented every renewal message itself. It also advised ANS on better ways to integrate data from its AMS into the renewal effort."
+   },
+   {
+    "heading": "What changed for ANS's members?",
+    "body": "Each ANS member now gets renewal reminders timed to their own anniversary date rather than one calendar cycle. The message speaks to their member type, and it arrives through more channels than before. Every piece carries the same updated ANS look, so renewals feel familiar and clearly come from the society. The goal behind it all is faster dues collection and higher renewal rates."
+   }
+  ],
+  "association": "American Nuclear Society (ANS)",
+  "members": {
+   "display_label": "Members",
+   "display": "10,000+",
+   "source_url": "https://en.wikipedia.org/wiki/American_Nuclear_Society"
+  },
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "member_type": "Individual",
+  "industry": "Science/Tech",
+  "extra": [
+   {
+    "label": "Model Change",
+    "value": "Rolling anniversary renewals"
+   },
+   {
+    "label": "Member Types",
+    "value": "Six customized messages"
+   }
+  ]
+ },
+ {
+  "slug": "adlm-revamps-marketing-with-ricochet",
+  "title": "ADLM Revamps Marketing with Ricochet",
+  "summary": "Ricochet designed fresh membership campaigns for ADLM and programmed them straight into HubSpot, while training the membership team to keep the work going on its own.",
+  "sections": [
+   {
+    "heading": "What was holding ADLM back?",
+    "body": "The Association for Diagnostics & Laboratory Medicine (ADLM) brings together more than 50,000 clinical laboratory professionals. Its outsourced marketing collateral was not producing results, and ADLM was tired of it. The association needed a partner that could create high-quality materials and also program them directly into its HubSpot marketing system. ADLM chose Ricochet to do both."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet designed new membership campaigns, from copy and design through implementation inside HubSpot. The work spanned email, direct mail, online ads, landing pages, and text messages. Ricochet also gave ADLM's membership staff hands-on HubSpot training with a \"we do it, you watch, now you do it\" approach. That way ADLM could keep creating and managing engaging campaigns on its own."
+   },
+   {
+    "heading": "What changed for ADLM's members?",
+    "body": "ADLM members and prospects now meet a refreshed, consistent membership message across many channels, from email and direct mail to ads and text. Because the campaigns live in HubSpot, the pieces work together instead of arriving as separate outsourced items. With trained staff, ADLM can keep that experience going and keep producing engaging content without waiting on an outside vendor."
+   }
+  ],
+  "association": "Association for Diagnostics & Laboratory Medicine (ADLM)",
+  "members": {
+   "display_label": "Professionals",
+   "display": "50,000+",
+   "source_url": "https://myadlm.org/about-adlm/who-we-are"
+  },
+  "services": [
+   "HubSpot",
+   "Brand and Campaign Studio"
+  ],
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "extra": [
+   {
+    "label": "Channels",
+    "value": "Email, direct mail, ads, landing pages, text"
+   },
+   {
+    "label": "Training Model",
+    "value": "We do it, you watch, now you do it"
+   }
+  ]
+ },
+ {
+  "slug": "iaee-sets-its-digital-future",
+  "title": "IAEE Sets Its Digital Future",
+  "summary": "Ricochet surveyed IAEE members and prospects about digital experiences and communication, then turned the findings into a multi-year plan for stronger, more relevant benefits.",
+  "sections": [
+   {
+    "heading": "What was holding IAEE back?",
+    "body": "The International Association of Exhibitions and Events (IAEE) has more than 12,000 individual members in over 50 countries. It wanted to revamp its membership strategy so that its benefits were more relevant and its digital services were better. IAEE needed to know which changes would matter most to members, so it partnered with Ricochet to find out."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet ran a thorough survey of IAEE members and prospects. It asked what digital experiences people wanted and how they preferred to communicate. The findings were eye-opening: almost a third of IAEE's benefits could be improved to serve members better. Ricochet used those results to build a multi-year plan with recommendations for technology investment and benefit improvements, all aimed at helping IAEE attract and retain members."
+   },
+   {
+    "heading": "What changed for IAEE's members?",
+    "body": "IAEE's plan rests on what members and prospects said they want. Almost a third of the benefits are now marked for improvement, so members can expect offerings that fit their work more closely. Communication will follow the styles and channels people told IAEE they prefer. Each step aims to make membership more valuable, which helps IAEE attract new members and keep the ones it has."
+   }
+  ],
+  "association": "International Association of Exhibitions and Events (IAEE)",
+  "members": {
+   "display_label": "Members",
+   "display": "12,000+",
+   "source_url": "https://www.iaee.com/about/"
+  },
+  "services": [
+   "Member Research",
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": "Trade",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Surveyed",
+    "value": "Members and prospects"
+   },
+   {
+    "label": "Key Finding",
+    "value": "Almost a third of benefits could improve"
+   },
+   {
+    "label": "Deliverable",
+    "value": "Multi-year plan"
+   }
+  ]
+ },
+ {
+  "slug": "ara-drives-a-digital-transformation",
+  "title": "ARA Drives a Digital Transformation",
+  "summary": "Without any technology leadership, the American Retirement Association brought in Ricochet's Chris Gloede as temporary CTO and had Ricochet lead the search for a new website agency.",
+  "sections": [
+   {
+    "heading": "What was holding ARA back?",
+    "body": "The American Retirement Association (ARA) serves more than 30,000 members, but it had no Chief Technology Officer and no technology leadership of any kind. Its systems were outdated and were limiting business performance. ARA's website also badly needed an update. With no one in place to set technology priorities or guide the work, ARA turned to Ricochet."
+   },
+   {
+    "heading": "What did Ricochet do?",
+    "body": "Ricochet Chief Consultant Chris Gloede stepped in as temporary CTO. He set project priorities and evaluated the tech team's skills, giving ARA the strategic guidance it lacked. Ricochet also took charge of the website update and the search for a new platform. It wrote the Request for Proposal and managed the process from agency invitations and presentations through proposal evaluation, then coordinated selection of the best agency."
+   },
+   {
+    "heading": "What changed for ARA's members?",
+    "body": "ARA is now well on its way to a major technology upgrade, and members stand to benefit most. A new website on a new platform, built by a carefully chosen agency, will give members a better digital front door to the association. With clear technology priorities in place, ARA is better equipped to serve members as their digital expectations keep changing."
+   }
+  ],
+  "association": "American Retirement Association (ARA)",
+  "members": {
+   "display_label": "Members",
+   "display": "30,000+",
+   "source_url": "https://www.usaretirement.org/header/about-us/"
+  },
+  "services": [
+   "Fractional Staffing and Training",
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": "Individual",
+  "industry": "Finance",
+  "extra": [
+   {
+    "label": "Fractional Role",
+    "value": "Temporary CTO"
+   },
+   {
+    "label": "Website",
+    "value": "RFP and agency selection"
+   }
+  ]
+ },
+ {
+  "slug": "bscai-boosts-sales-with-hubspot",
+  "title": "BSCAI Boosts Sales with HubSpot",
+  "summary": "BSCAI's prospect data was scattered across systems and spreadsheets until Ricochet set up HubSpot Sales Hub with an eight-stage pipeline for corporate membership sales.",
+  "sections": [
+   {
+    "heading": "What was holding BSCAI back?",
+    "body": "The Building Service Contractors Association International (BSCAI) has more than 1,000 member companies from the United States and 15 countries worldwide. Its sales prospect data was spread across many systems and spreadsheets. That made it hard to track leads and close deals, and it held back corporate membership sales. BSCAI asked Ricochet to streamline the sales process."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet first helped BSCAI acquire HubSpot Sales Hub, handling the requirements and fee negotiations. Working with staff, it designed a structured sales pipeline with eight stages and wrote new sales collateral and phone scripts for each one. Ricochet automated key tasks to free staff from repetitive manual work like data entry. It also built pipeline reporting so management can track progress and spot bottlenecks."
+   },
+   {
+    "heading": "What changed for BSCAI's members?",
+    "body": "Companies considering BSCAI membership now get a more organized sales experience. Every prospect moves through a clear eight-stage pipeline, and the sales team has the right materials and scripts ready at each step. With less time lost to data entry, staff can spend more of their day talking with prospective members. Management can see where deals stall and act sooner."
+   }
+  ],
+  "association": "Building Service Contractors Association International (BSCAI)",
+  "members": {
+   "display_label": "Member companies",
+   "display": "1,000+",
+   "source_url": "https://www.bscai.org/AboutUs"
+  },
+  "services": [
+   "HubSpot"
+  ],
+  "member_type": "Trade",
+  "industry": "Service",
+  "extra": [
+   {
+    "label": "Platform",
+    "value": "HubSpot Sales Hub"
+   },
+   {
+    "label": "Pipeline Stages",
+    "value": "Eight"
+   },
+   {
+    "label": "Also Built",
+    "value": "Sales pipeline dashboard"
+   }
+  ]
+ },
+ {
+  "slug": "aafp-digital-transformation",
+  "title": "FelineVMA's Digital Transformation",
+  "summary": "Ricochet gave the Feline Veterinary Medical Association a digital strategy and five-year roadmap, built on member research, then led the search for its website redesign agency.",
+  "sections": [
+   {
+    "heading": "What was holding FelineVMA back?",
+    "body": "The Feline Veterinary Medical Association (FelineVMA), formerly the American Association of Feline Practitioners, was ready to modernize its digital technology. It wanted a better experience for members, starting with a complete website redesign. A project that large needed a clear picture of what members wanted and what the current systems could do. FelineVMA turned to Ricochet to build that picture and plan the way forward."
+   },
+   {
+    "heading": "What did Ricochet build?",
+    "body": "Ricochet ran a member survey that drew more than a thousand responses and held focus groups with members and prospects. It interviewed stakeholders and audited the existing digital infrastructure and content, while organizing demos with digital solution providers. From that work came a Digital Strategy and a five-year Digital Roadmap. Ricochet then led agency selection for the website redesign, from writing the RFP through coordinating the final choice."
+   },
+   {
+    "heading": "What changed for FelineVMA's members?",
+    "body": "Members shaped FelineVMA's digital plans through a survey with more than a thousand responses, and members and prospects added detail in focus groups. The five-year roadmap turns that input into a steady path for improving the member experience. The website redesign, handled by an agency chosen through a careful process, gives members a modern site built around what they said they need."
+   }
+  ],
+  "association": "American Association of Feline Practitioners (AAFP), now the Feline Veterinary Medical Association (FelineVMA)",
+  "members": {
+   "display_label": null,
+   "display": null,
+   "source_url": ""
+  },
+  "services": [
+   "Member Research",
+   "Tech and AI Roadmaps"
+  ],
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "extra": [
+   {
+    "label": "Survey Responses",
+    "value": "Over a thousand"
+   },
+   {
+    "label": "Roadmap",
+    "value": "Five-year Digital Roadmap"
+   },
+   {
+    "label": "Website",
+    "value": "RFP and agency selection"
+   }
+  ]
+ }
+]
