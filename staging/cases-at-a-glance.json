@@ -1,0 +1,1590 @@
+[
+ {
+  "slug": "wcet-builds-the-case-for-its-combined-value",
+  "association": "WICHE Cooperative for Educational Technologies (WCET)",
+  "members": {
+   "label": "Member institutions",
+   "value": "365+ member institutions",
+   "source_url": "https://www.wiche.edu/learning-technology/",
+   "source_name": "WICHE, WCET page",
+   "display_label": "Member institutions",
+   "display": "365+"
+  },
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Audiences",
+    "value": "Two distinct member groups"
+   },
+   {
+    "label": "Scope",
+    "value": "Full brand architecture redesign"
+   },
+   {
+    "label": "Brand Refresh",
+    "value": "January 2026 visual refresh"
+   }
+  ],
+  "notes": "Case text calls WCET the WICHE technology-focused membership program; official name used. Work is described in progress (\"is leading\"), so no results yet."
+ },
+ {
+  "slug": "cms-modernizes-its-marketing-technology",
+  "association": "Colorado Medical Society",
+  "members": {
+   "label": "Members",
+   "value": "More than 6,000 members across all specialties and employment settings",
+   "source_url": "https://www.cms.org/about/",
+   "source_name": "Colorado Medical Society, About",
+   "display_label": "Members",
+   "display": "6,000+"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "services": [
+   "HubSpot"
+  ],
+  "extra": [
+   {
+    "label": "Configuration Tasks",
+    "value": "Over 100"
+   },
+   {
+    "label": "Launch Timeline",
+    "value": "Partial by Labor Day, full by Halloween"
+   },
+   {
+    "label": "Ongoing Support",
+    "value": "HubSpot Evolution Coaching"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "slug": "ncans-strategic-pivot-to-a-sustainable-membership-model",
+  "association": "National College Attainment Network (NCAN)",
+  "members": {
+   "label": "Member organizations",
+   "value": "Nearly 600 member organizations",
+   "source_url": "https://www.ncan.org/Web/Web/AboutUs/About-Us.aspx",
+   "source_name": "NCAN, About Us",
+   "display_label": "Member organizations",
+   "display": "Nearly 600"
+  },
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "services": [
+   "Member Research",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Discovery",
+    "value": "Stakeholder interviews and member data analysis"
+   },
+   {
+    "label": "Deliverable",
+    "value": "Multi-phased Membership Model Strategy"
+   },
+   {
+    "label": "Recommendations",
+    "value": "Tiered pricing, enhanced benefits, streamlined operations"
+   }
+  ],
+  "notes": "Slug says ncans but the organization is NCAN. NCAN Our Members page says only \"hundreds of members\"; About Us figure used."
+ },
+ {
+  "slug": "corenet-global-expands-through-paid-media",
+  "association": "CoreNet Global",
+  "members": {
+   "label": "Members",
+   "value": "Nearly 10,000 members in 50 countries worldwide",
+   "source_url": "https://www.corenetglobal.org/about-corenet-global/news/press-release-article/2026/03/04/corenet-global-announces-new-board-members",
+   "source_name": "CoreNet Global press release boilerplate, March 2026",
+   "display_label": "Members",
+   "display": "Nearly 10,000"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Audience Growth",
+    "value": "25%"
+   },
+   {
+    "label": "Ad Channels",
+    "value": "LinkedIn, Reddit, Meta, AdRoll"
+   },
+   {
+    "label": "Optimization",
+    "value": "Monthly optimization sprints"
+   }
+  ],
+  "notes": "Case text says recruitment goals were \"shattered\" but gives no figure."
+ },
+ {
+  "slug": "njcpa-transitions-to-hubspot-to-power-multichannel-communications",
+  "association": "New Jersey Society of Certified Public Accountants (NJCPA)",
+  "members": {
+   "label": "Members",
+   "value": "Nearly 13,000 members",
+   "source_url": "https://njcpa.org/about",
+   "source_name": "NJCPA, About",
+   "display_label": "Members",
+   "display": "Nearly 13,000"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "services": [
+   "HubSpot"
+  ],
+  "extra": [
+   {
+    "label": "Training",
+    "value": "Nearly four months of weekly sessions"
+   },
+   {
+    "label": "Tools Replaced",
+    "value": "Adestra"
+   },
+   {
+    "label": "Channels Added",
+    "value": "Texts, landing pages, social, ringless voicemail, postcards"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "slug": "ncada-transforms-a-pivotal-turning-point-into-a-growth-opportunity",
+  "association": "North Carolina Association of Defense Attorneys (NCADA)",
+  "members": {
+   "label": "Members",
+   "value": "More than 800 attorneys and paralegals",
+   "source_url": "https://nclawyersweekly.com/2024/06/25/association-elects-new-slate-of-officers/",
+   "source_name": "North Carolina Lawyers Weekly, June 2024",
+   "display_label": "Members",
+   "display": "800+ attorneys and paralegals"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "services": [
+   "Member Research",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Research",
+    "value": "Quantitative surveys and qualitative interviews"
+   },
+   {
+    "label": "Audits",
+    "value": "Membership model and technology"
+   },
+   {
+    "label": "Financial Projection",
+    "value": "Five years"
+   }
+  ],
+  "notes": "Member figure is from a 2024 news article, not the NCADA site (ncada.org could not be fetched). Industry tag is Service; Legal may fit better."
+ },
+ {
+  "slug": "nata-modernizes-its-marketing-in-only-sixteen-weeks",
+  "association": "National Athletic Trainers' Association (NATA)",
+  "members": {
+   "label": "Members",
+   "value": "More than 45,000 members worldwide",
+   "source_url": "https://wfatt.org/nata",
+   "source_name": "World Federation of Athletic Training and Therapy, NATA profile",
+   "display_label": "Members",
+   "display": "45,000+"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "services": [
+   "HubSpot"
+  ],
+  "extra": [
+   {
+    "label": "Launch Timeline",
+    "value": "Sixteen weeks"
+   },
+   {
+    "label": "Tools Replaced",
+    "value": "Emma, Sprout Social, PropFuel"
+   },
+   {
+    "label": "Channels Added",
+    "value": "SMS marketing"
+   }
+  ],
+  "notes": "CONFLICT: case text says NATA serves \"100,000 members\"; live sources say more than 45,000 (NATA site gives no count; a 2019 NATA release also said 45,000). Case text should be checked. Sixteen weeks comes from the title, not the body. Case body contains a banned-list word; editor should review."
+ },
+ {
+  "slug": "cvma-navigates-critical-transitions-with-fractional-cmo",
+  "association": "Colorado Veterinary Medical Association (CVMA)",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "services": [
+   "Fractional Staffing and Training",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Ramp Time",
+    "value": "Four days before the membership drive"
+   },
+   {
+    "label": "Tech Stack",
+    "value": "Rhythm AMS and Mailchimp"
+   },
+   {
+    "label": "CMO Experience",
+    "value": "15 years"
+   }
+  ],
+  "notes": "No credible member count found (colovma.org and AVMA pages give none). WP tag is \"Fractional Leadership and Training\", mapped to Fractional Staffing and Training; confirm. Case mentions Mailchimp but has no Mailchimp tag."
+ },
+ {
+  "slug": "mipi-augments-marketing-with-ricochet-staff",
+  "association": "MIPI Alliance",
+  "members": {
+   "label": "Member companies",
+   "value": "More than 375 members",
+   "source_url": "https://mipi.org/about-us",
+   "source_name": "MIPI Alliance, About Us",
+   "display_label": "Member companies",
+   "display": "375+"
+  },
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Science/Tech"
+  ],
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Workload",
+    "value": "Doubled the assigned workload"
+   },
+   {
+    "label": "Budget",
+    "value": "Within the original budget"
+   },
+   {
+    "label": "Tools",
+    "value": "HubSpot Marketing Hub, Monday"
+   }
+  ],
+  "notes": "MIPI figure is undated on its About page. WP tag is \"Fractional Leadership and Training\", mapped to Fractional Staffing and Training; confirm."
+ },
+ {
+  "slug": "payo-rebuilds-its-membership-model",
+  "association": "PayrollOrg (PAYO)",
+  "members": {
+   "label": "Members",
+   "value": "More than 20,000 members",
+   "source_url": "https://www.payroll.org/news-resources/news/news-detail/2026/04/20/where-payroll-professionals-grow-inside-payrollorg-s-member-resources",
+   "source_name": "PayrollOrg news, April 2026 (boilerplate)",
+   "display_label": "Members",
+   "display": "20,000+"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Finance"
+  ],
+  "services": [
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Legacy Organizations",
+    "value": "Two payroll associations"
+   },
+   {
+    "label": "Testing",
+    "value": "Virtual focus groups"
+   },
+   {
+    "label": "Report Topics",
+    "value": "Dues sensitivity, tier preferences, group membership, benefits"
+   }
+  ],
+  "notes": "Same PayrollOrg article also says \"a network of more than 30,000 payroll professionals\"; the boilerplate member figure was used. Case describes member research but has no Member Research tag."
+ },
+ {
+  "slug": "nsta-boosts-efficiency-and-cuts-costs-with-strategic-outsourcing",
+  "association": "National Science Teaching Association (NSTA)",
+  "members": {
+   "label": "Members",
+   "value": "A vibrant community of 35,000 science educators and professionals",
+   "source_url": "https://www.businesswire.com/news/home/20260608474293/en/",
+   "source_name": "NSTA press release boilerplate, Business Wire, June 2026",
+   "display_label": "Community",
+   "display": "35,000 science educators"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Role Filled",
+    "value": "Marketing Content Manager"
+   },
+   {
+    "label": "Staff Provided",
+    "value": "Digital copywriter"
+   },
+   {
+    "label": "Improvements",
+    "value": "Standardized email templates, AI tools"
+   }
+  ],
+  "notes": "NSTA describes a community, not strictly members. WP tag is \"Fractional Leadership and Training\", mapped to Fractional Staffing and Training; confirm. Case body contains a banned-list word; editor should review. Industry tag Service; Education may fit better."
+ },
+ {
+  "slug": "ntma-chapters-get-engaged",
+  "association": "National Tooling & Machining Association (NTMA)",
+  "members": {
+   "label": "Member companies",
+   "value": "1200 companies representing more than $8 billion in sales",
+   "source_url": "https://ntma.org/about/",
+   "source_name": "NTMA, About",
+   "display_label": "Member companies",
+   "display": "1,200"
+  },
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Mfg/Retail"
+  ],
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Event",
+    "value": "Chapter Leadership Summit"
+   },
+   {
+    "label": "Event Length",
+    "value": "Two days"
+   },
+   {
+    "label": "Best Practices",
+    "value": "Five"
+   }
+  ],
+  "notes": "WP tag is \"Fractional Leadership and Training\", mapped to Fractional Staffing and Training; this case is a presentation and emcee job, so the service fit is loose."
+ },
+ {
+  "slug": "asco-plans-strategic-membership-overhaul",
+  "association": "American Society of Clinical Oncology (ASCO)",
+  "members": {
+   "label": "Members",
+   "value": "Nearly 50,000 oncology professionals",
+   "source_url": "https://society.asco.org/node/1326",
+   "source_name": "ASCO, society.asco.org",
+   "display_label": "Members",
+   "display": "Nearly 50,000"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "services": [
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Benefits",
+    "value": "48"
+   },
+   {
+    "label": "Initiatives",
+    "value": "Nine"
+   },
+   {
+    "label": "Rollout Timeline",
+    "value": "Two and a half years"
+   }
+  ],
+  "notes": "ASCO page says its network includes nearly 50,000 oncology professionals; Wikipedia says nearly 45,000 members (undated). Network may be broader than dues-paying members."
+ },
+ {
+  "slug": "dcpa-energizes-marketing-with-commerce-data",
+  "association": "Denver Center for the Performing Arts (DCPA)",
+  "members": {
+   "label": "Annual attendees",
+   "value": "Nearly one million attendees each year",
+   "source_url": "https://en.wikipedia.org/wiki/Denver_Center_for_the_Performing_Arts",
+   "source_name": "Wikipedia, citing DCPA 2024/25 Community Report",
+   "display_label": "Annual attendees",
+   "display": "Nearly 1 million"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Service"
+  ],
+  "services": [
+   "HubSpot"
+  ],
+  "extra": [
+   {
+    "label": "Integration",
+    "value": "Ticketing and commerce to HubSpot"
+   },
+   {
+    "label": "Deliverables",
+    "value": "CRM redesign and integration documentation"
+   },
+   {
+    "label": "Handoff",
+    "value": "DCPA completed the connection"
+   }
+  ],
+  "notes": "DCPA is a performing arts nonprofit, not a membership association; measure is attendees, not members. Member type tag \"Individual\" looks odd. Case body contains a banned-list word; editor should review."
+ },
+ {
+  "slug": "leadingage-streamlines-its-communication-chaos",
+  "association": "LeadingAge",
+  "members": {
+   "label": "Members",
+   "value": "A 5,300-member organization of nonprofit providers",
+   "source_url": "https://leadingage.org/about-us",
+   "source_name": "LeadingAge, About Us",
+   "display_label": "Member organizations",
+   "display": "5,300"
+  },
+  "member_type": [
+   "Trade"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "services": [
+   "Membership Modeling",
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Annual Inquiries",
+    "value": "22,000"
+   },
+   {
+    "label": "Lost Productivity",
+    "value": "45,000 hours per year (estimated)"
+   },
+   {
+    "label": "New Tools",
+    "value": "Ticket system and upgraded phones"
+   }
+  ],
+  "notes": "WP tag \"Technology Roadmap\" (singular) mapped to Tech and AI Roadmaps. Case is a service and communications strategy; Membership Modeling tag fit is loose."
+ },
+ {
+  "slug": "acep-translates-its-technology-strategy-into-a-roadmap",
+  "association": "American College of Emergency Physicians (ACEP)",
+  "members": {
+   "label": "Members",
+   "value": "More than 38,000 emergency physicians, emergency medicine residents, and medical students",
+   "source_url": "https://www.acep.org/who-we-are/about-us",
+   "source_name": "ACEP, About Us",
+   "display_label": "Members",
+   "display": "38,000+"
+  },
+  "member_type": [
+   "Individual"
+  ],
+  "industry": [
+   "Healthcare"
+  ],
+  "services": [
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Roadmap Length",
+    "value": "Five years"
+   },
+   {
+    "label": "New Systems",
+    "value": "Learning, financial, association management, marketing"
+   },
+   {
+    "label": "Extras",
+    "value": "Vendor demos and cost projections"
+   }
+  ],
+  "notes": "WP tag \"Technology Roadmap\" (singular) mapped to Tech and AI Roadmaps."
+ },
+ {
+  "slug": "hardis-future-focused-conference-session",
+  "association": "Heating, Air-conditioning & Refrigeration Distributors International (HARDI)",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": "Individual",
+  "industry": "Service",
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Format",
+    "value": "In-person conference session"
+   },
+   {
+    "label": "Research Focus",
+    "value": "B2B prospecting and service trends"
+   },
+   {
+    "label": "Takeaways",
+    "value": "Ideas on technology, process and culture"
+   }
+  ],
+  "notes": [
+   "WordPress tag is 'Fractional Leadership and Training', not 'Fractional Staffing and Training'; mapped to Fractional Staffing and Training as closest match, confirm.",
+   "No current member count found: hardinet.org shows its counts only in an image; the only text count found (450 distributor companies) is from a 2006 article. Left empty.",
+   "Member type tag 'Individual' looks off for a distributor trade association; industry tag 'Service' also worth checking."
+  ]
+ },
+ {
+  "slug": "finseca-creates-a-new-membership-model",
+  "association": "Finseca",
+  "members": {
+   "label": "Members",
+   "value": "With over 15,000 members",
+   "source_url": "https://www.finseca.org/about/",
+   "source_name": "Finseca, About",
+   "display_label": "Members",
+   "display": "15,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Finance",
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Origin",
+    "value": "Merger of two associations"
+   },
+   {
+    "label": "Deliverables",
+    "value": "Tiers, dues projections, communication plan"
+   }
+  ],
+  "notes": [
+   "Finseca news release dated Feb 2026 says 'more than 13,000 members' (https://www.finseca.org/finseca-surpasses-13000-members-as-professions-momentum-accelerates/); About page says over 15,000. Figures conflict, confirm which to use."
+  ]
+ },
+ {
+  "slug": "cha-upgrades-email-and-texting-with-hubspot",
+  "association": "Catholic Health Association of the United States (CHA)",
+  "members": {
+   "label": "Facilities Represented",
+   "value": "Over 600 hospitals and 1,600 long-term care and other health facilities across all 50 states",
+   "source_url": "https://chausa.org/member-center",
+   "source_name": "CHA, Member Center",
+   "display_label": "Facilities",
+   "display": "600+ hospitals and 1,600 long-term care facilities"
+  },
+  "member_type": "Trade",
+  "industry": "Healthcare",
+  "services": [
+   "HubSpot",
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Tools Replaced",
+    "value": "Higher Logic Real Magnet"
+   },
+   {
+    "label": "Channels Added",
+    "value": "SMS text messaging"
+   },
+   {
+    "label": "Data Fields",
+    "value": "Approximately 200 synced with Aptify AMS"
+   }
+  ],
+  "notes": [
+   "WordPress tag is 'Technology Roadmap' (singular); mapped to Tech and AI Roadmaps.",
+   "CHA publishes no member count; the figure is facilities in the Catholic health ministry. CHA's About page says 'more than 650 hospitals' in one section and 'more than 600' in another."
+  ]
+ },
+ {
+  "slug": "aota-transforms-marketing-with-hubspot",
+  "association": "American Occupational Therapy Association (AOTA)",
+  "members": {
+   "label": "Professionals Represented",
+   "value": "More than 244,500 occupational therapists, occupational therapy assistants, and occupational therapy students",
+   "source_url": "https://www.aota.org/about",
+   "source_name": "AOTA, About",
+   "display_label": "Professionals represented",
+   "display": "244,500+"
+  },
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "services": [
+   "HubSpot",
+   "Brand and Campaign Studio"
+  ],
+  "extra": [
+   {
+    "label": "Launch Timeline",
+    "value": "Four project tracks in 14 weeks"
+   },
+   {
+    "label": "Records Migrated",
+    "value": "Over 400,000"
+   },
+   {
+    "label": "Tools Replaced",
+    "value": "Outdated email system"
+   }
+  ],
+  "notes": [
+   "AOTA figure is people represented, not dues-paying members. Other counts found: 'approximately 36,000' members (NCHPAD directory, undated) and 60,000 members (2016 article). Confirm before use.",
+   "Case text contains a banned style word (a form of the s-word on the no-use list)."
+  ]
+ },
+ {
+  "slug": "anitab-launches-membership-in-record-time",
+  "association": "AnitaB.org",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": "Individual",
+  "industry": "Science/Tech",
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Launch Timeline",
+    "value": "102 days"
+   },
+   {
+    "label": "Member Benefits",
+    "value": "Sixteen"
+   },
+   {
+    "label": "Results",
+    "value": "First-year recruitment goal in thirty days"
+   }
+  ],
+  "notes": [
+   "No member count found. GuideStar lists '44 local communities in 22 countries' but notes metrics are no longer tracked. Left empty.",
+   "Case text says 'four months' and '102 days'; typo 'overeliance' in text."
+  ]
+ },
+ {
+  "slug": "aenc-shares-membership-best-practices-at-bootcamp",
+  "association": "Association Executives of North Carolina (AENC)",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": "Individual",
+  "industry": "Service",
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Format",
+    "value": "Two-day, six-hour bootcamp"
+   },
+   {
+    "label": "Source Course",
+    "value": "Ten-week online course"
+   }
+  ],
+  "notes": [
+   "WordPress tag is 'Fractional Leadership and Training', not 'Fractional Staffing and Training'; mapped to Fractional Staffing and Training as closest match, confirm.",
+   "No member count found in public sources. Left empty."
+  ]
+ },
+ {
+  "slug": "aapa-grows-with-tiered-membership",
+  "association": "American Academy of Physician Associates (AAPA)",
+  "members": {
+   "label": "Members",
+   "value": "73,000",
+   "source_url": "https://en.wikipedia.org/wiki/American_Academy_of_Physician_Associates",
+   "source_name": "Wikipedia",
+   "display_label": "Members",
+   "display": "73,000"
+  },
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "services": [
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Project Length",
+    "value": "Year-long"
+   },
+   {
+    "label": "Systems Changed",
+    "value": "AMS, LMS and ledger"
+   },
+   {
+    "label": "Results",
+    "value": "Hit revenue goals"
+   }
+  ],
+  "notes": [
+   "Wikipedia infobox 'Membership: 73,000' carries no year; AAPA's own site gives no count."
+  ]
+ },
+ {
+  "slug": "aao-hns-a-bold-plan-for-membership-renewal",
+  "association": "American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS)",
+  "members": {
+   "label": "Members",
+   "value": "Approximately 13,000 members",
+   "source_url": "https://entnet.org/about-us",
+   "source_name": "AAO-HNS, About Us",
+   "display_label": "Members",
+   "display": "About 13,000"
+  },
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "New Dues",
+    "value": "Over $1,000 for core physician members"
+   },
+   {
+    "label": "Results",
+    "value": "Exceeded revenue goals, minimal complaints"
+   }
+  ],
+  "notes": []
+ },
+ {
+  "slug": "wscpas-content-marketing-makeover",
+  "association": "Washington Society of Certified Public Accountants (WSCPA)",
+  "members": {
+   "label": "Members",
+   "value": "More than 6,500 members",
+   "source_url": "https://wscpa.org/about-wscpa",
+   "source_name": "WSCPA, About",
+   "display_label": "Members",
+   "display": "6,500+"
+  },
+  "member_type": "Individual",
+  "industry": "Finance",
+  "services": [
+   "HubSpot",
+   "Brand and Campaign Studio"
+  ],
+  "extra": [
+   {
+    "label": "Tools Replaced",
+    "value": "Adestra"
+   },
+   {
+    "label": "AMS Integrated",
+    "value": "AM.net"
+   }
+  ],
+  "notes": []
+ },
+ {
+  "slug": "vmae-debates-strategies-for-membership-growth",
+  "association": "Veterinary Medical Association Executives (VMAE)",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": "Trade",
+  "industry": "Healthcare",
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Attendees",
+    "value": "Thirty senior executives"
+   },
+   {
+    "label": "Workshop Length",
+    "value": "Four hours"
+   },
+   {
+    "label": "Content",
+    "value": "150 slides, ten real-time polls"
+   }
+  ],
+  "notes": [
+   "WordPress tag is 'Fractional Leadership and Training', not 'Fractional Staffing and Training'; mapped to Fractional Staffing and Training as closest match, confirm.",
+   "No member count found. Left empty.",
+   "Typo 'throug' in case text; first sentence of workshop paragraph is ungrammatical."
+  ]
+ },
+ {
+  "slug": "smithbucklin-pioneers-the-virtual-event-frontier",
+  "association": "Smithbucklin",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": "Trade",
+  "industry": "Service",
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Virtual Events",
+    "value": "72 in 2020, over 100 in 2021"
+   },
+   {
+    "label": "Listening Sessions",
+    "value": "Seven, with over 40 employees"
+   },
+   {
+    "label": "Deliverable",
+    "value": "18-page research paper"
+   }
+  ],
+  "notes": [
+   "WordPress tag is 'Fractional Leadership and Training', not 'Fractional Staffing and Training'; mapped to Fractional Staffing and Training as closest match, confirm.",
+   "Smithbucklin is an association management company, not a member organization; no client count found on its site. Cause IQ lists 232 'identified customers', a partial count, so left empty.",
+   "Work described is research, so a Member Research service tag may fit better than Fractional."
+  ]
+ },
+ {
+  "slug": "sifma-expands-member-connections-with-hubspot",
+  "association": "Securities Industry and Financial Markets Association (SIFMA)",
+  "members": {
+   "label": "Member Organizations",
+   "value": "500+ Member Organizations",
+   "source_url": "https://sifma.org/about",
+   "source_name": "SIFMA, About",
+   "display_label": "Member organizations",
+   "display": "500+"
+  },
+  "member_type": "Trade",
+  "industry": "Finance",
+  "services": [
+   "HubSpot",
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Platform Chosen",
+    "value": "HubSpot Marketing Hub"
+   },
+   {
+    "label": "Systems Integrated",
+    "value": "Protech AMS, Microsoft Dynamics 365 CRM"
+   }
+  ],
+  "notes": [
+   "WordPress tag is 'Technology Roadmap' (singular); mapped to Tech and AI Roadmaps.",
+   "Case text contains a banned style word (the s-word on the no-use list)."
+  ]
+ },
+ {
+  "slug": "sfn-updates-newsletter-strategy-and-design",
+  "association": "Society for Neuroscience (SfN)",
+  "members": {
+   "label": "Members",
+   "value": "Over 30,000 members in more than 95 countries",
+   "source_url": "https://sfn.org/about",
+   "source_name": "SfN, About",
+   "display_label": "Members",
+   "display": "30,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "services": [
+   "HubSpot",
+   "Brand and Campaign Studio"
+  ],
+  "extra": [
+   {
+    "label": "Benchmark",
+    "value": "Thirty other newsletters"
+   },
+   {
+    "label": "Design Tool",
+    "value": "Figma"
+   }
+  ],
+  "notes": [
+   "Case text contains a banned style word (the s-word on the no-use list).",
+   "Industry tag 'Healthcare' for a neuroscience research society may deserve a check (Science/Tech?)."
+  ]
+ },
+ {
+  "slug": "saba-gives-itself-a-membership-makeover",
+  "association": "San Antonio Bar Association (SABA)",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": "Individual",
+  "industry": "Service",
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Campaign",
+    "value": "Full season of recruitment materials"
+   },
+   {
+    "label": "Staff Training",
+    "value": "Follow-up sales calls"
+   }
+  ],
+  "notes": [
+   "No member count found on sanantoniobar.org or directories. Left empty.",
+   "Case text ends 'The results were impressive!' with no stated results."
+  ]
+ },
+ {
+  "slug": "rotary-develops-prospective-members",
+  "association": "Rotary International",
+  "members": {
+   "label": "Members",
+   "value": "1.24 million",
+   "source_url": "https://en.wikipedia.org/wiki/Rotary_International",
+   "source_name": "Wikipedia",
+   "display_label": "Members",
+   "display": "1.24 million"
+  },
+  "member_type": "Individual",
+  "industry": "Service",
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Channels",
+    "value": "Email, online ads, landing page"
+   },
+   {
+    "label": "Ad Optimization",
+    "value": "Weekly"
+   }
+  ],
+  "notes": [
+   "Wikipedia gives 1.24 million in the infobox and 1.2 million in the intro, 'as of 2026', with over 45,000 clubs."
+  ]
+ },
+ {
+  "slug": "rh-isac-understands-their-members",
+  "association": "Retail & Hospitality Information Sharing and Analysis Center (RH-ISAC)",
+  "members": {
+   "label": "Member Companies",
+   "value": "More than 300 Core Members",
+   "source_url": "https://summit2026.rhisac.org/about/rh-isac-overview/",
+   "source_name": "RH-ISAC Summit 2026, RH-ISAC Overview",
+   "display_label": "Core members",
+   "display": "300+"
+  },
+  "member_type": "Trade",
+  "industry": "Science/Tech",
+  "services": [
+   "Member Research"
+  ],
+  "extra": [
+   {
+    "label": "Member Segments",
+    "value": "35"
+   },
+   {
+    "label": "Open-Ended Responses",
+    "value": "Over 400"
+   },
+   {
+    "label": "Survey Scope",
+    "value": "Global, current and prospective members"
+   }
+  ],
+  "notes": [
+   "Count is Core Members only; Associate Members not counted.",
+   "Typo 'invittee' in case text."
+  ]
+ },
+ {
+  "slug": "ncacpas-digital-transformation",
+  "association": "North Carolina Association of Certified Public Accountants (NCACPA)",
+  "members": {
+   "label": "Members",
+   "value": "A vibrant community of over 12,000",
+   "source_url": "https://www.ncacpa.org/about/",
+   "source_name": "NCACPA About page",
+   "display_label": "Community",
+   "display": "12,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Finance",
+  "services": [
+   "HubSpot"
+  ],
+  "extra": [
+   {
+    "label": "Platform",
+    "value": "HubSpot Marketing Hub"
+   },
+   {
+    "label": "AMS Integrated",
+    "value": "NetForum"
+   }
+  ],
+  "notes": "NCACPA states 'community of over 12,000', not explicitly 'members'."
+ },
+ {
+  "slug": "isa-explains-the-ai-future-with-seminar",
+  "association": "International Sign Association (ISA)",
+  "members": {
+   "label": "Members",
+   "value": "2,000-member trade association",
+   "source_url": "https://careers.pcma.org/profile/international-sign-association/463707/",
+   "source_name": "PCMA Career Center employer profile",
+   "display_label": "Members",
+   "display": "2,000"
+  },
+  "member_type": "Trade",
+  "industry": "Mfg/Retail",
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Research",
+    "value": "Industry leader interviews"
+   },
+   {
+    "label": "Format",
+    "value": "Hands-on training with live AI demos"
+   },
+   {
+    "label": "Topics Added",
+    "value": "Ethics and legal issues"
+   }
+  ],
+  "notes": "Tag 'Fractional Leadership and Training' mapped to Fractional Staffing and Training (tag name differs slightly from the spec). ISA's own site (signs.org/about) gives no count; figure is from a PCMA directory profile, likely self-reported."
+ },
+ {
+  "slug": "isa-cleans-and-unifies-its-distributed-data",
+  "association": "International Sign Association (ISA)",
+  "members": {
+   "label": "Members",
+   "value": "2,000-member trade association",
+   "source_url": "https://careers.pcma.org/profile/international-sign-association/463707/",
+   "source_name": "PCMA Career Center employer profile",
+   "display_label": "Members",
+   "display": "2,000"
+  },
+  "member_type": "Trade",
+  "industry": "Mfg/Retail",
+  "services": [
+   "Brand and Campaign Studio",
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Records Reviewed",
+    "value": "Nearly 300,000"
+   },
+   {
+    "label": "Records Deleted",
+    "value": "Almost 20,000"
+   },
+   {
+    "label": "Outcome",
+    "value": "Clean data migrated to new AMS"
+   }
+  ],
+  "notes": "Tag 'Technology Roadmap' (singular) mapped to Tech and AI Roadmaps. Services tag 'Marketing Campaigns' is an odd fit for a data clean-up case; confirm. Member count from PCMA directory profile."
+ },
+ {
+  "slug": "iiaba-explores-its-member-resources",
+  "association": "Independent Insurance Agents & Brokers of America (IIABA, the Big \"I\")",
+  "members": {
+   "label": "Agency Locations",
+   "value": "Nearly 25,000 independent agency locations nationwide",
+   "source_url": "https://independentagent.com/AboutUs",
+   "source_name": "IIABA About Us page",
+   "display_label": "Agency locations",
+   "display": "Nearly 25,000"
+  },
+  "member_type": "Individual",
+  "industry": "Finance",
+  "services": [
+   "Member Research"
+  ],
+  "extra": [
+   {
+    "label": "Focus Groups",
+    "value": "Five"
+   },
+   {
+    "label": "Key Insights",
+    "value": "Six"
+   },
+   {
+    "label": "Recommendations",
+    "value": "Five"
+   }
+  ],
+  "notes": "IIABA states agency locations supported, not a member count. Also a federation of 51 state associations. Tagged Individual though members are agencies."
+ },
+ {
+  "slug": "icf-attracts-coaches-with-seo-content",
+  "association": "International Coaching Federation (ICF)",
+  "members": {
+   "label": "Members",
+   "value": "Surpassing 59,000 ICF members",
+   "source_url": "https://coachingfederation.org/blog/united-by-purpose-driven-by-impact-2025-icf-annual-report/",
+   "source_name": "ICF 2025 Annual Report post",
+   "display_label": "Members",
+   "display": "59,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Service",
+  "services": [
+   "Brand and Campaign Studio"
+  ],
+  "extra": [
+   {
+    "label": "Content Type",
+    "value": "Long-form SEO articles"
+   },
+   {
+    "label": "Extras",
+    "value": "Original images and tagging"
+   }
+  ],
+  "notes": "Annual report also cites 60,000 active credentials across 155 countries and territories."
+ },
+ {
+  "slug": "iaee-educates-members-with-ai-workshop",
+  "association": "International Association of Exhibitions and Events (IAEE)",
+  "members": {
+   "label": "Members",
+   "value": "Over 12,000 individuals in over 50 countries",
+   "source_url": "https://www.iaee.com/about/",
+   "source_name": "IAEE About page",
+   "display_label": "Members",
+   "display": "12,000+"
+  },
+  "member_type": "Trade",
+  "industry": "Service",
+  "services": [
+   "Fractional Staffing and Training"
+  ],
+  "extra": [
+   {
+    "label": "Workshop Length",
+    "value": "Three hours"
+   },
+   {
+    "label": "AI Experiments",
+    "value": "Seven"
+   },
+   {
+    "label": "Attendance",
+    "value": "Full house, standing room"
+   }
+  ],
+  "notes": "Tag 'Fractional Leadership and Training' mapped to Fractional Staffing and Training (tag name differs slightly from the spec). Case text appears truncated at the start ('AI skills, IAEE partnered...'); check the opening sentence in WordPress."
+ },
+ {
+  "slug": "hfa-starts-a-new-era-for-marketing-and-sales",
+  "association": "Home Furnishings Association (HFA)",
+  "members": {
+   "label": "Members",
+   "value": "More than 1,400 members representing more than 10,000 storefronts globally",
+   "source_url": "https://www.highpointmarket.org/exhibitor/4363",
+   "source_name": "High Point Market exhibitor profile",
+   "display_label": "Members",
+   "display": "1,400+"
+  },
+  "member_type": "Trade",
+  "industry": "Mfg/Retail",
+  "services": [
+   "Fractional Staffing and Training",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Fractional Roles",
+    "value": "CMO and Project Manager"
+   },
+   {
+    "label": "Areas Covered",
+    "value": "Marketing, membership, sales, exhibits"
+   }
+  ],
+  "notes": "Tag 'Fractional Leadership and Training' mapped to Fractional Staffing and Training (tag name differs slightly from the spec). Figure is from HFA's exhibitor profile on High Point Market (likely HFA-supplied), not myhfa.org directly."
+ },
+ {
+  "slug": "ficpa-expands-marketing-with-hubspot",
+  "association": "Florida Institute of CPAs (FICPA)",
+  "members": {
+   "label": "Members",
+   "value": "More than 20,000 members",
+   "source_url": "https://www.ficpa.org/about",
+   "source_name": "FICPA About page",
+   "display_label": "Members",
+   "display": "20,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Finance",
+  "services": [
+   "HubSpot"
+  ],
+  "extra": [
+   {
+    "label": "Tool Replaced",
+    "value": "Adestra email"
+   },
+   {
+    "label": "Staff Training",
+    "value": "Over three months"
+   },
+   {
+    "label": "Also Updated",
+    "value": "Privacy policy and subscriptions"
+   }
+  ],
+  "notes": "Wikipedia gives lower figures (18,500 and 19,500); used FICPA's own page."
+ },
+ {
+  "slug": "fei-powers-up-marketing",
+  "association": "Financial Executives International (FEI)",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": "Individual",
+  "industry": "Finance",
+  "services": [
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Plan",
+    "value": "Four-part marketing plan"
+   },
+   {
+    "label": "AMS Search",
+    "value": "RFI, vendor list, scorecard"
+   }
+  ],
+  "notes": "Tag 'Technology Roadmap' (singular) mapped to Tech and AI Roadmaps. No credible member count found (FEI About page and GuideStar give none; Hive Index says 'more than 65 Chapters in the U.S.'). Case says AMS selection is still in progress ('are now helping')."
+ },
+ {
+  "slug": "crew-charts-a-digital-future",
+  "association": "CREW Network (Commercial Real Estate Women Network)",
+  "members": {
+   "label": "Members",
+   "value": "More than 15,000 members across the globe",
+   "source_url": "https://crewnetwork.org/join",
+   "source_name": "CREW Network Join page",
+   "display_label": "Members",
+   "display": "15,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Service",
+  "services": [
+   "Member Research",
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Deliverable",
+    "value": "Multi-year digital roadmap"
+   },
+   {
+    "label": "Inputs",
+    "value": "Member surveys and staff interviews"
+   },
+   {
+    "label": "Org Changes",
+    "value": "New roles and reporting lines"
+   }
+  ],
+  "notes": "Tag 'Technology Roadmap' (singular) mapped to Tech and AI Roadmaps. Same page's meta description says 'over 14,000 global members'; body text and stats say 15,000+. Also 85+ chapters and affiliates."
+ },
+ {
+  "slug": "ans-evolves-membership-renewal",
+  "association": "American Nuclear Society (ANS)",
+  "members": {
+   "label": "Members",
+   "value": "More than 10,000 members from more than 40 countries (as of spring 2024)",
+   "source_url": "https://en.wikipedia.org/wiki/American_Nuclear_Society",
+   "source_name": "Wikipedia",
+   "display_label": "Members",
+   "display": "10,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Science/Tech",
+  "services": [
+   "Brand and Campaign Studio",
+   "Membership Modeling"
+  ],
+  "extra": [
+   {
+    "label": "Model Change",
+    "value": "Rolling anniversary renewals"
+   },
+   {
+    "label": "Member Types",
+    "value": "Six customized messages"
+   }
+  ],
+  "notes": "Source is Wikipedia (spring 2024); ans.org not checked directly."
+ },
+ {
+  "slug": "adlm-revamps-marketing-with-ricochet",
+  "association": "Association for Diagnostics & Laboratory Medicine (ADLM)",
+  "members": {
+   "label": "Professionals Reached",
+   "value": "Brings together more than 50,000 clinical laboratory professionals",
+   "source_url": "https://myadlm.org/about-adlm/who-we-are",
+   "source_name": "ADLM Who We Are page",
+   "display_label": "Professionals",
+   "display": "50,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "services": [
+   "HubSpot",
+   "Brand and Campaign Studio"
+  ],
+  "extra": [
+   {
+    "label": "Channels",
+    "value": "Email, direct mail, ads, landing pages, text"
+   },
+   {
+    "label": "Training Model",
+    "value": "We do it, you watch, now you do it"
+   }
+  ],
+  "notes": "ADLM's figure is professionals it 'brings together', not explicitly paid members; members come from 110 countries. Formerly AACC."
+ },
+ {
+  "slug": "iaee-sets-its-digital-future",
+  "association": "International Association of Exhibitions and Events (IAEE)",
+  "members": {
+   "label": "Members",
+   "value": "Over 12,000 individuals in over 50 countries",
+   "source_url": "https://www.iaee.com/about/",
+   "source_name": "IAEE About page",
+   "display_label": "Members",
+   "display": "12,000+"
+  },
+  "member_type": "Trade",
+  "industry": "Service",
+  "services": [
+   "Member Research",
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Surveyed",
+    "value": "Members and prospects"
+   },
+   {
+    "label": "Key Finding",
+    "value": "Almost a third of benefits could improve"
+   },
+   {
+    "label": "Deliverable",
+    "value": "Multi-year plan"
+   }
+  ],
+  "notes": "Tag 'Technology Roadmap' (singular) mapped to Tech and AI Roadmaps."
+ },
+ {
+  "slug": "ara-drives-a-digital-transformation",
+  "association": "American Retirement Association (ARA)",
+  "members": {
+   "label": "Members",
+   "value": "30,000+ members",
+   "source_url": "https://www.usaretirement.org/header/about-us/",
+   "source_name": "ARA About Us page",
+   "display_label": "Members",
+   "display": "30,000+"
+  },
+  "member_type": "Individual",
+  "industry": "Finance",
+  "services": [
+   "Fractional Staffing and Training",
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Fractional Role",
+    "value": "Temporary CTO"
+   },
+   {
+    "label": "Website",
+    "value": "RFP and agency selection"
+   }
+  ],
+  "notes": "Tag 'Fractional Leadership and Training' mapped to Fractional Staffing and Training (tag name differs slightly from the spec). Tag 'Technology Roadmap' (singular) mapped to Tech and AI Roadmaps."
+ },
+ {
+  "slug": "bscai-boosts-sales-with-hubspot",
+  "association": "Building Service Contractors Association International (BSCAI)",
+  "members": {
+   "label": "Member Companies",
+   "value": "More than 1,000 member companies from across the United States and 15 countries worldwide",
+   "source_url": "https://www.bscai.org/AboutUs",
+   "source_name": "BSCAI About page",
+   "display_label": "Member companies",
+   "display": "1,000+"
+  },
+  "member_type": "Trade",
+  "industry": "Service",
+  "services": [
+   "HubSpot"
+  ],
+  "extra": [
+   {
+    "label": "Platform",
+    "value": "HubSpot Sales Hub"
+   },
+   {
+    "label": "Pipeline Stages",
+    "value": "Eight"
+   },
+   {
+    "label": "Also Built",
+    "value": "Sales pipeline dashboard"
+   }
+  ],
+  "notes": "Count appears in BSCAI's 'Our Founding Story' section; may not be updated recently."
+ },
+ {
+  "slug": "aafp-digital-transformation",
+  "association": "American Association of Feline Practitioners (AAFP), now the Feline Veterinary Medical Association (FelineVMA)",
+  "members": {
+   "label": "Members",
+   "value": "",
+   "source_url": "",
+   "source_name": ""
+  },
+  "member_type": "Individual",
+  "industry": "Healthcare",
+  "services": [
+   "Member Research",
+   "Tech and AI Roadmaps"
+  ],
+  "extra": [
+   {
+    "label": "Survey Responses",
+    "value": "Over a thousand"
+   },
+   {
+    "label": "Roadmap",
+    "value": "Five-year Digital Roadmap"
+   },
+   {
+    "label": "Website",
+    "value": "RFP and agency selection"
+   }
+  ],
+  "notes": "Tag 'Technology Roadmap' (singular) mapped to Tech and AI Roadmaps. AAFP renamed itself FelineVMA on September 27, 2024 (catvets.com); consider updating the case name. No credible member count found; a Multiview ad media kit says 'Reach 1,500 Feline Veterinary Professionals' but that is ad reach, not members."
+ }
+]
