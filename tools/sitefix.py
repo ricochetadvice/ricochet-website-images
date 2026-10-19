@@ -313,12 +313,15 @@ MENUS = [
         ('Preferences Portal', '/hubspot/hubspot-preferences-portal/'),
     ]),
     ('Cases', '/cases/', [
-        ('Member Research', '/cases/?service=Member+Research'),
-        ('Membership Modeling', '/cases/?service=Membership+Modeling'),
-        ('Brand and Campaign Studio', '/cases/?service=Brand+and+Campaign+Studio'),
-        ('Tech and AI Roadmaps', '/cases/?service=Tech+and+AI+Roadmaps'),
-        ('Fractional Staffing and Training', '/cases/?service=Fractional+Staffing+and+Training'),
-        ('HubSpot', '/cases/?service=HubSpot'),
+        ('Member Research', '/service-types/member-research/'),
+        ('Membership Modeling', '/service-types/membership-strategy/'),
+        ('Brand and Campaign Studio', '/service-types/marketing-campaigns/'),
+        ('Tech and AI Roadmaps', '/service-types/technology-roadmap/'),
+        ('Fractional Staffing and Training', '/service-types/fractional-leadership-and-training/'),
+        ('HubSpot', '/service-types/hubspot-automation/'),
+        ('-', None),
+        ('Individual membership associations', '/association-types/individual/'),
+        ('Trade associations', '/association-types/trade/'),
     ]),
     ('About', '/about/', [
         ('Events', '/events/'),
@@ -341,6 +344,7 @@ NAV_CSS = '''<style id="rico-nav-css">
 .rico-nav .rico-dd-btn[aria-expanded="true"] svg{transform:rotate(180deg)}
 .rico-nav .rico-dd-panel{position:absolute;top:100%;left:-16px;z-index:50;min-width:260px;margin:0;padding:8px;list-style:none;background:#041F33;border:1px solid rgba(255,255,255,0.14);border-radius:8px;box-shadow:0 12px 28px rgba(4,31,51,0.35);opacity:0;visibility:hidden;transform:translateY(4px);transition:opacity .15s,transform .15s,visibility .15s}
 .rico-nav .rico-dd-panel li{margin:0}
+.rico-nav .rico-dd-panel .rico-dd-sep{height:1px;margin:6px 10px;background:rgba(255,255,255,0.18)}
 .rico-nav .rico-dd-panel a{display:flex;align-items:center;min-height:44px;padding:10px 14px;border-radius:6px;color:#FFFFFF;font-family:'PT Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:400;font-size:16px;line-height:1.3;text-decoration:none;white-space:nowrap}
 .rico-nav .rico-dd-panel a:hover{background:rgba(255,255,255,0.10);opacity:1}
 .rico-nav a:focus-visible,.rico-nav .rico-dd-btn:focus-visible{outline:3px solid #F0A500;outline-offset:2px}
@@ -404,7 +408,7 @@ def nav_markup(cta_href, ident='rico-dd'):
     parts = []
     for i, (label, href, items) in enumerate(MENUS):
         pid = f'{ident}-{label.lower()}'
-        lis = ''.join(f'<li><a href="{_html.escape(u, quote=True)}">{_html.escape(t)}</a></li>' for t, u in items)
+        lis = ''.join('<li class="rico-dd-sep" role="separator"></li>' if u is None else f'<li><a href="{_html.escape(u, quote=True)}">{_html.escape(t)}</a></li>' for t, u in items)
         parts.append(
             f'<div class="rico-dd"><a href="{href}">{label}</a>'
             f'<button type="button" class="rico-dd-btn" aria-expanded="false" aria-controls="{pid}" aria-label="{label} menu">{CHEVRON}</button>'
