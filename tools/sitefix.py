@@ -322,7 +322,6 @@ MENUS = [
     ]),
     ('About', '/about/', [
         ('Events', '/events/'),
-        ('Connect with Chris', '/connect-with-chris-gloede/'),
         ("Let's Talk", '/lets-talk/'),
     ]),
 ]
