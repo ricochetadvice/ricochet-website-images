@@ -40,10 +40,10 @@ TERMS = [
          h1='What results has Ricochet delivered with HubSpot?',
          intro='HubSpot implementations for associations moving off older email systems, with Ricochet training staff to run the platform on their own. NATA completed its move in sixteen weeks.'),
     # term slug stays 'individual' (live taxonomy data); the page URL is /association-types/professional/ (301 from /individual/ at launch)
-    dict(key='individual', tax='association-types', slug='professional', name='Individual', kind='m', label='Professional associations',
+    dict(key='individual', tax='association-types', slug='professional', name='Individual', kind='m', label='Professional associations', chip='Professional Association',
          h1='How has Ricochet helped professional associations?',
          intro='Case studies from professional associations whose members join as individuals, from state CPA societies to national medical associations.'),
-    dict(key='trade', tax='association-types', slug='trade', name='Trade', kind='m', label='Trade associations',
+    dict(key='trade', tax='association-types', slug='trade', name='Trade', kind='m', label='Trade associations', chip='Trade Association',
          h1='How has Ricochet helped trade associations?',
          intro='Case studies from associations whose members are companies and institutions, from the sign industry to higher education technology.'),
     dict(key='finance', tax='association-industry', slug='finance', name='Finance', kind='i', label='Finance',
@@ -93,7 +93,7 @@ def grid(t, cardfn):
 
 def terms_row(t):
     def group(kind, label):
-        lis = ''.join(f'<li><a href="{PROD}{x["path"]}" style="{CHIP}">{E(x["name"] if kind == "s" else x["label"])}</a></li>'
+        lis = ''.join(f'<li><a href="{PROD}{x["path"]}" style="{CHIP}">{E(x["name"] if kind == "s" else x.get("chip", x["label"]))}</a></li>'
                       for x in TERMS if x['kind'] == kind and x['key'] != t['key'])
         return (f'<div style="display: flex; flex-direction: column; gap: 12px;"><span style="{LABEL}">{label}</span>'
                 f'<ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 12px;">{lis}</ul></div>')

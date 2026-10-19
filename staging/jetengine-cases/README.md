@@ -6,7 +6,7 @@ Staging6 build, 2026-10-18. All page edits are on drafts. Nothing was published 
 
 - **Source of truth is the case page itself.** The 48 new case pages (children of 9951 "Cases (new design)") now carry the three existing taxonomies, so a page is the only record a new case needs. The `cases` CPT is no longer read by the new design.
 - **Taxonomies** `service-types` (JetEngine tax 1), `association_types` (2), `association_industry` (3) now attach to `cases` and `page`. Term slugs and names are unchanged (live data).
-- **Display labels** live in term meta `card_label` (meta box "Case card label", meta-3): Membership Strategy shows as Membership Modeling, Individual as Professional associations, Trade as Trade associations, and so on.
+- **Display labels** live in term meta `card_label` (meta box "Case card label", meta-3): Membership Strategy shows as Membership Modeling, Individual as Professional Association, Trade as Trade Association (singular, title case), and so on.
 - **Page meta** (meta box "Case card (new design)", meta-2, pages): `case_logo` (media, URL) and `case_logo_alt`. Feature image is the WordPress featured image. Card order is `menu_order` ascending (10, 20, ... 480; a new page left at 0 shows first, newest first).
 - **Listing items** (Blocks view): 11687 "Case Card (new design)" (source Pages) with three nested term listings 11745 (services), 11746 (member type), 11747 (industry). Card markup mirrors `card()` in `cases_build.py`. Content: `card-listing-content.json`, generator `card_listing.py`.
 - **Query Builder**: 11 = landing (12 per page, load more); 12 to 24 = one per sub-landing term (see `dyn_blocks.QUERY_BY_TERM`). All filter `post_type=page`, `post_parent=9951`, ordered by menu_order. **They include drafts until launch** (`launch-flip-status.js`).
@@ -15,7 +15,7 @@ Staging6 build, 2026-10-18. All page edits are on drafts. Nothing was published 
 
 ## Adding a case later
 
-Create a child page of Cases with the case content, tick its Service Types, Association Types and Association Industry terms, set the featured image, fill Case logo and alt. It appears on the landing (with filtering) and on every matching sub-landing. A brand-new service term also needs an option added to filter 11894 and a `card_label`.
+Create a child page of Cases with the case content, tick its Service Types, Association Types and Association Industry terms, set the featured image, fill Case logo and alt, and set Case card photo (`case_card_photo`): a crop of the photo only, with no title text, since the old featured images have the title baked in. Crops: `staging/case-card-photos/` (x 504 to 1200 of the 1200x628 featured image). It appears on the landing (with filtering) and on every matching sub-landing. A brand-new service term also needs an option added to filter 11894 and a `card_label`.
 
 ## Build scripts
 

@@ -9,7 +9,8 @@ URL = "[jet_engine_data dynamic_field_post_object='post_id' dynamic_field_filter
 TITLE = "[jet_engine_data]"
 LOGO = "[jet_engine_data dynamic_field_source='meta' dynamic_field_post_meta_custom='case_logo']"
 ALT = "[jet_engine_data dynamic_field_source='meta' dynamic_field_post_meta_custom='case_logo_alt']"
-THUMB = "[jet_engine_data dynamic_field_post_object='post_id' dynamic_field_filter='yes' filter_callbacks={filter_callback=jet_engine_post_thumbnail&thumbnail_add_permalink=} _parse_attrs=filter_callbacks]"
+# Clean photo crop (page meta case_card_photo, meta box meta-2); the featured image is the old composite with baked-in title text
+THUMB = "<img src=\"[jet_engine_data dynamic_field_source='meta' dynamic_field_post_meta_custom='case_card_photo']\" alt=\"\" loading=\"lazy\" style=\"width: 100%; height: 100%; object-fit: cover; object-position: center; display: block;\">"
 
 
 def html(s):

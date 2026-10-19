@@ -15,6 +15,13 @@ for l in L:
 logo['isa-explains-the-ai-future-with-seminar']=logo['isa-cleans-and-unifies-its-distributed-data']
 logo['iaee-educates-members-with-ai-workshop']=logo['iaee-sets-its-digital-future']
 SERV=['Member Research','Membership Modeling','Brand and Campaign Studio','Tech and AI Roadmaps','Fractional Staffing and Training','HubSpot','Mailchimp']
+# member type display labels (term names stay Individual / Trade)
+MT={'Individual':'Professional Association','Trade':'Trade Association'}
+def MTL(x): return MT.get(x,x)
+# clean card photos (photo region only), uploaded to staging6 media; see ricochet-website-images staging/case-card-photos
+import json as _json, os as _os
+_CP=_os.path.join(_os.path.dirname(_os.path.abspath(__file__)),'case_card_photos.json')
+CARD_PHOTO=_json.load(open(_CP)) if _os.path.exists(_CP) else {}
 PILL='<span style="background: #D6EAF4; border-radius: 999px; padding: 4px 11px; font-size: 13px; font-weight: 700; color: #041F33;">{}</span>'
 SERIF="font-family: 'PT Serif', Georgia, serif; font-weight: 700; color: #041F33;"
 def rec(c):
@@ -27,7 +34,7 @@ order=[s for s in glance]  # newest first already
 cases.sort(key=lambda c: order.index(c['slug']))
 def url(c): return f"https://ricochetadvice.com/cases/{c['slug']}/"
 def tags(c,small=False):
-    g=c['g']; rows=[('Services',g['services']),('Member Type',[g['member_type']]),('Industry',[g['industry']])]
+    g=c['g']; rows=[('Services',g['services']),('Member Type',[MTL(g['member_type'])]),('Industry',[g['industry']])]
     return ''.join(f'<div style="display: flex; gap: 10px; align-items: baseline;"><span style="flex: none; width: 118px; font-weight: 700; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: #4B5563;">{k}</span><div style="display: flex; flex-wrap: wrap; gap: 6px;">{"".join(PILL.format(E(x)) for x in v if x)}</div></div>' for k,v in rows)
 def card(c,extra=''):
     lg,nm=logo[c['slug']]
@@ -35,7 +42,7 @@ def card(c,extra=''):
      f'<a href="{url(c)}" style="display: flex; height: 210px; overflow: hidden; background: #041F33; text-decoration: none;"><div style="flex: 0 0 46%; box-sizing: border-box; padding: 18px 16px 16px 18px; display: flex; flex-direction: column; gap: 10px;">'
      f'<img src="{lg}" alt="{E(nm)} logo" loading="lazy" style="max-width: 100%; max-height: 34px; width: auto; height: auto; display: block; align-self: flex-start;">'
      f'<div style="flex: 1; display: flex; align-items: center;"><span style="font-family: \'PT Serif\', Georgia, serif; font-weight: 700; color: #FFFFFF; font-size: 15px; line-height: 1.2;">{E(c["title"])}</span></div></div>'
-     f'<img src="{{{{FEAT:{c["slug"]}}}}}" alt="" aria-hidden="true" loading="lazy" style="flex: 1 1 0; min-width: 0; height: 100%; object-fit: cover; display: block;"></a>'
+     f'<img src="{CARD_PHOTO.get(c["slug"], "{{FEAT:"+c["slug"]+"}}")}" alt="" aria-hidden="true" loading="lazy" style="flex: 1 1 0; min-width: 0; height: 100%; object-fit: cover; display: block;"></a>'
      f'<div style="padding: 20px 22px 22px; display: flex; flex-direction: column; gap: 10px; flex: 1;">{tags(c)}'
      f'<span style="margin-top: auto; padding-top: 8px;"><a href="{url(c)}" style="color: #127196; font-weight: 700; text-decoration: none;">Read the case<span style="position: absolute; left: -9999px;">: {E(c["title"])}</span></a></span></div></li>')
 def glance_rows(c):
@@ -43,7 +50,7 @@ def glance_rows(c):
     m=g.get('members') or {}
     if m.get('display'): rows.append((m['display_label'],E(m['display'])))
     rows.append(('Services',''.join(PILL.format(E(x)) for x in g['services'])))
-    rows.append(('Member Type',PILL.format(E(g['member_type']))))
+    rows.append(('Member Type',PILL.format(E(MTL(g['member_type'])))))
     rows.append(('Industry',PILL.format(E(g['industry']))))
     for e in g.get('extra',[]): rows.append((e['label'],E(e['value'])))
     return ''.join(f'<div style="display: flex; flex-direction: column; gap: 2px; padding: 12px 0; border-top: 1px solid #D1D5DB;"><span style="font-weight: 700; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #4B5563;">{E(k)}</span><span style="font-size: 17px; color: #041F33; display: flex; flex-wrap: wrap; gap: 6px;">{v}</span></div>' for k,v in rows)
