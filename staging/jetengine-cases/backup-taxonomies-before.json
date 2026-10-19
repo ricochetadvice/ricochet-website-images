@@ -1,0 +1,110 @@
+{
+ "1": {
+  "general_settings": {
+   "name": "Service Types",
+   "slug": "service-types",
+   "id": "1",
+   "object_type": [
+    "cases"
+   ],
+   "show_edit_link": false,
+   "hide_field_names": false,
+   "delete_metadata": false
+  },
+  "labels": {
+   "name": "Service Types"
+  },
+  "advanced_settings": {
+   "public": true,
+   "publicly_queryable": true,
+   "show_ui": true,
+   "show_in_menu": true,
+   "show_in_nav_menus": true,
+   "show_in_rest": true,
+   "rewrite": true,
+   "hierarchical": true,
+   "with_front": false,
+   "show_edit_link": false,
+   "hide_field_names": false,
+   "delete_metadata": false,
+   "rewrite_hierarchical": false,
+   "query_var": "",
+   "rewrite_slug": "service-types",
+   "capability_type": "",
+   "description": ""
+  },
+  "meta_fields": []
+ },
+ "2": {
+  "general_settings": {
+   "name": "Association Types",
+   "slug": "association_types",
+   "id": "2",
+   "object_type": [
+    "cases"
+   ],
+   "show_edit_link": false,
+   "hide_field_names": false,
+   "delete_metadata": false
+  },
+  "labels": {
+   "name": "Association Types"
+  },
+  "advanced_settings": {
+   "public": true,
+   "publicly_queryable": true,
+   "show_ui": true,
+   "show_in_menu": true,
+   "show_in_nav_menus": true,
+   "show_in_rest": true,
+   "rewrite": true,
+   "hierarchical": true,
+   "with_front": false,
+   "show_edit_link": false,
+   "hide_field_names": false,
+   "delete_metadata": false,
+   "rewrite_hierarchical": false,
+   "query_var": "",
+   "rewrite_slug": "association-types",
+   "capability_type": "",
+   "description": ""
+  },
+  "meta_fields": []
+ },
+ "3": {
+  "general_settings": {
+   "name": "Association Industry",
+   "slug": "association_industry",
+   "id": "3",
+   "object_type": [
+    "cases"
+   ],
+   "show_edit_link": false,
+   "hide_field_names": false,
+   "delete_metadata": false
+  },
+  "labels": {
+   "name": "Association Industry"
+  },
+  "advanced_settings": {
+   "public": true,
+   "publicly_queryable": true,
+   "show_ui": true,
+   "show_in_menu": true,
+   "show_in_nav_menus": true,
+   "show_in_rest": true,
+   "rewrite": true,
+   "hierarchical": true,
+   "with_front": false,
+   "show_edit_link": false,
+   "hide_field_names": false,
+   "delete_metadata": false,
+   "rewrite_hierarchical": false,
+   "query_var": "",
+   "rewrite_slug": "association-industry",
+   "capability_type": "",
+   "description": ""
+  },
+  "meta_fields": []
+ }
+}
