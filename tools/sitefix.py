@@ -313,15 +313,22 @@ MENUS = [
         ('Preferences Portal', '/hubspot/hubspot-preferences-portal/'),
     ]),
     ('Cases', '/cases/', [
+        ('#By service', None),
         ('Member Research', '/service-types/member-research/'),
         ('Membership Modeling', '/service-types/membership-strategy/'),
         ('Brand and Campaign Studio', '/service-types/marketing-campaigns/'),
         ('Tech and AI Roadmaps', '/service-types/technology-roadmap/'),
         ('Fractional Staffing and Training', '/service-types/fractional-leadership-and-training/'),
         ('HubSpot', '/service-types/hubspot-automation/'),
-        ('-', None),
+        ('#By member type', None),
         ('Individual membership associations', '/association-types/individual/'),
         ('Trade associations', '/association-types/trade/'),
+        ('#By industry', None),
+        ('Finance', '/association-industry/finance/'),
+        ('Healthcare', '/association-industry/healthcare/'),
+        ('Manufacturing and Retail', '/association-industry/mfg-retail/'),
+        ('Science and Technology', '/association-industry/science-tech/'),
+        ('Service', '/association-industry/service/'),
     ]),
     ('About', '/about/', [
         ('Events', '/events/'),
@@ -344,7 +351,12 @@ NAV_CSS = '''<style id="rico-nav-css">
 .rico-nav .rico-dd-btn[aria-expanded="true"] svg{transform:rotate(180deg)}
 .rico-nav .rico-dd-panel{position:absolute;top:100%;left:-16px;z-index:50;min-width:260px;margin:0;padding:8px;list-style:none;background:#041F33;border:1px solid rgba(255,255,255,0.14);border-radius:8px;box-shadow:0 12px 28px rgba(4,31,51,0.35);opacity:0;visibility:hidden;transform:translateY(4px);transition:opacity .15s,transform .15s,visibility .15s}
 .rico-nav .rico-dd-panel li{margin:0}
-.rico-nav .rico-dd-panel .rico-dd-sep{height:1px;margin:6px 10px;background:rgba(255,255,255,0.18)}
+.rico-nav .rico-nav-list{display:flex;gap:28px;align-items:center;flex-wrap:wrap}
+.rico-nav .rico-burger{display:none}
+.rico-nav .rico-dd-cols{left:auto;right:-16px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 8px;width:min(860px,calc(100vw - 32px));padding:14px}
+.rico-nav .rico-dd-cols ul{list-style:none;margin:0;padding:0}
+.rico-nav .rico-dd-panel.rico-dd-cols a{white-space:normal}
+.rico-nav .rico-dd-head{display:block;padding:6px 14px 8px;font-family:'PT Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:12px;letter-spacing:0.14em;text-transform:uppercase;color:#F0A500}
 .rico-nav .rico-dd-panel a{display:flex;align-items:center;min-height:44px;padding:10px 14px;border-radius:6px;color:#FFFFFF;font-family:'PT Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:400;font-size:16px;line-height:1.3;text-decoration:none;white-space:nowrap}
 .rico-nav .rico-dd-panel a:hover{background:rgba(255,255,255,0.10);opacity:1}
 .rico-nav a:focus-visible,.rico-nav .rico-dd-btn:focus-visible{outline:3px solid #F0A500;outline-offset:2px}
@@ -356,15 +368,26 @@ NAV_CSS = '''<style id="rico-nav-css">
 .rico-nav .rico-cta:hover .rico-cta-arrow,.rico-nav .rico-cta:focus-visible .rico-cta-arrow{width:14px;opacity:1;transform:none}
 @media (prefers-reduced-motion:reduce){.rico-nav .rico-dd-panel,.rico-nav .rico-dd-btn svg,.rico-nav .rico-cta,.rico-nav .rico-cta .rico-cta-arrow{transition:none}.rico-nav .rico-cta:hover,.rico-nav .rico-cta:focus-visible{transform:none;box-shadow:none;gap:0;padding:0 35px}.rico-nav .rico-cta:hover .rico-cta-arrow,.rico-nav .rico-cta:focus-visible .rico-cta-arrow{width:0;opacity:0}}
 @media (max-width:767px){
-.rico-nav{width:100%;flex-direction:column;align-items:stretch!important;gap:0!important}
+.rico-page header>div{position:relative}
+.rico-nav{width:auto;flex:0 0 0;gap:0!important}
+.rico-nav.is-open{flex:1 1 100%;width:100%}
+.rico-nav .rico-burger{display:inline-flex;position:absolute;top:20px;right:20px;align-items:center;justify-content:center;width:44px;height:44px;padding:0;background:transparent;border:1px solid rgba(255,255,255,0.32);border-radius:6px;color:#FFFFFF;cursor:pointer}
+.rico-nav .rico-burger svg{width:22px;height:22px}
+.rico-nav .rico-burger .rico-x{display:none}
+.rico-nav.is-open .rico-burger .rico-x{display:block}
+.rico-nav.is-open .rico-burger .rico-bars{display:none}
+.rico-nav .rico-nav-list{display:none;width:100%;flex-direction:column;align-items:stretch;gap:0}
+.rico-nav.is-open .rico-nav-list{display:flex}
 .rico-nav .rico-dd{flex-wrap:wrap;justify-content:space-between;border-bottom:1px solid rgba(255,255,255,0.12)}
 .rico-nav .rico-dd>a{flex:1 1 auto}
 .rico-nav .rico-dd-btn{width:44px}
-.rico-nav .rico-dd-panel{position:static;flex:1 1 100%;min-width:0;display:none;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0;padding:0 0 8px 12px;background:transparent}
+.rico-nav .rico-dd-panel{position:static;flex:1 1 100%;min-width:0;width:auto;display:none;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0;padding:0 0 8px 12px;background:transparent}
 .rico-nav .rico-dd:hover>.rico-dd-panel,.rico-nav .rico-dd:focus-within>.rico-dd-panel{display:none}
 .rico-nav .rico-dd.is-open>.rico-dd-panel{display:block}
+.rico-nav .rico-dd-cols{grid-template-columns:1fr;gap:0}
+.rico-nav .rico-dd.is-open>.rico-dd-cols{display:grid}
 .rico-nav .rico-dd-panel a{white-space:normal}
-.rico-nav .rico-cta{margin-top:14px;justify-content:center}
+.rico-nav .rico-cta{margin:14px 0 6px;justify-content:center}
 }
 </style>'''
 
@@ -389,13 +412,18 @@ dd.addEventListener('focusout',function(e){if(!dd.contains(e.relatedTarget)){set
 })(dds[i]);}
 document.addEventListener('keydown',function(e){
 if(e.key==='Escape'){
-var a=document.activeElement;
+var a=document.activeElement;var hadOpen=false;
 for(var i=0;i<dds.length;i++){
-if(dds[i].contains(a)){setOpen(dds[i],false);dds[i].classList.add('is-closed');var b=dds[i].querySelector('.rico-dd-btn');if(b){b.focus();}}
+if(dds[i].classList.contains('is-open')){hadOpen=true;}
+if(dds[i].contains(a)){if(dds[i].querySelector('.rico-dd-panel').contains(a)){hadOpen=true;}setOpen(dds[i],false);dds[i].classList.add('is-closed');var b=dds[i].querySelector('.rico-dd-btn');if(b){b.focus();}}
 else{if(dds[i].classList.contains('is-open')){setOpen(dds[i],false);}}
 }
+if(!hadOpen){var bg0=nav.querySelector('.rico-burger');if(bg0){if(nav.classList.contains('is-open')){nav.classList.remove('is-open');bg0.setAttribute('aria-expanded','false');bg0.setAttribute('aria-label','Open menu');bg0.focus();}}}
 }
 });
+var bg=nav.querySelector('.rico-burger');
+function setMenu(open){if(!bg){return;}bg.setAttribute('aria-expanded',open?'true':'false');bg.setAttribute('aria-label',open?'Close menu':'Open menu');if(open){nav.classList.add('is-open');}else{nav.classList.remove('is-open');closeAll(null);}}
+if(bg){bg.addEventListener('click',function(e){e.preventDefault();setMenu(bg.getAttribute('aria-expanded')!=='true');});}
 document.addEventListener('click',function(e){if(!nav.contains(e.target)){closeAll(null);}});
 })();
 </script>'''
@@ -404,17 +432,37 @@ CHEVRON = '<svg viewBox="0 0 12 12" aria-hidden="true" focusable="false"><path d
 ARROW = '<span class="rico-cta-arrow" aria-hidden="true">&rarr;</span>'
 
 
+BARS = ('<svg class="rico-bars" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>'
+        '<svg class="rico-x" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>')
+
+
+def _panel(pid, items):
+    link = lambda t, u: f'<li><a href="{_html.escape(u, quote=True)}">{_html.escape(t)}</a></li>'
+    if not any(t.startswith('#') for t, u in items):
+        return f'<ul class="rico-dd-panel" id="{pid}">' + ''.join(link(t, u) for t, u in items) + '</ul>'
+    cols, cur = [], None
+    for t, u in items:
+        if t.startswith('#'):
+            cur = [t[1:], []]
+            cols.append(cur)
+        else:
+            cur[1].append(link(t, u))
+    body = ''.join(f'<li class="rico-dd-col"><span class="rico-dd-head" id="{pid}-h{n}">{_html.escape(h)}</span>'
+                   f'<ul aria-labelledby="{pid}-h{n}">{"".join(lis)}</ul></li>' for n, (h, lis) in enumerate(cols))
+    return f'<ul class="rico-dd-panel rico-dd-cols" id="{pid}">{body}</ul>'
+
+
 def nav_markup(cta_href, ident='rico-dd'):
     parts = []
     for i, (label, href, items) in enumerate(MENUS):
         pid = f'{ident}-{label.lower()}'
-        lis = ''.join('<li class="rico-dd-sep" role="separator"></li>' if u is None else f'<li><a href="{_html.escape(u, quote=True)}">{_html.escape(t)}</a></li>' for t, u in items)
         parts.append(
             f'<div class="rico-dd"><a href="{href}">{label}</a>'
             f'<button type="button" class="rico-dd-btn" aria-expanded="false" aria-controls="{pid}" aria-label="{label} menu">{CHEVRON}</button>'
-            f'<ul class="rico-dd-panel" id="{pid}">{lis}</ul></div>')
+            f'{_panel(pid, items)}</div>')
     parts.append(f'<a class="rico-cta" href="{_html.escape(cta_href, quote=True)}">Let&rsquo;s talk{ARROW}</a>')
-    return '\n'.join(parts)
+    return (f'<button type="button" class="rico-burger" aria-expanded="false" aria-controls="{ident}-list" aria-label="Open menu">{BARS}</button>'
+            f'<div class="rico-nav-list" id="{ident}-list">' + '\n'.join(parts) + '</div>')
 
 
 def _cta_href(page_id, current=None):
@@ -601,6 +649,23 @@ def wrap_html_block(h, report=None):
     return '<!-- wp:html -->\n' + h.strip('\n') + '\n<!-- /wp:html -->'
 
 
+DL_FIX = '.rico-dl-form .hs_error_rollup{display:none}.rico-dl-form .hs_submit{flex:none}.rico-dl-form .hs_submit .actions{margin:0;padding:0}'
+
+
+def dl_css(h, report=None):
+    if '.rico-dl-form' not in h or DL_FIX in h:
+        return h
+    i = h.find('.rico-dl-form .hs-form{')
+    if i < 0:
+        return h
+    j = h.find('</style>', i)
+    if j < 0:
+        return h
+    if report is not None:
+        report['dl_css'] = True
+    return h[:j] + DL_FIX + h[j:]
+
+
 def apply(h, page_id=None, report=None):
     try:
         page_id = int(page_id) if page_id is not None else None
@@ -610,5 +675,6 @@ def apply(h, page_id=None, report=None):
     h = meet_links(h, page_id, report)
     h = link_card_images(h, report)
     h = standardize_logos(h, report)
+    h = dl_css(h, report)
     h = wrap_html_block(h, report)
     return h
