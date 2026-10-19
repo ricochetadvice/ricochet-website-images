@@ -293,12 +293,12 @@ MENUS = [
         ('Fractional Staffing and Training', '/services/fractional-staffing-and-training/'),
     ]),
     ('Academy', '/academy/', [
+        ('All Access Pass', '/academy/all-access-pass/'),
         ('AI Accelerator', '/academy/association-ai-accelerator-certificate-course/'),
         ('Conference Architecture', '/academy/association-conference-architecture-certificate-course/'),
         ('Membership Growth', '/academy/association-membership-growth-certificate-course/'),
         ('Newsletter Success', '/academy/association-newsletter-success-certificate-course/'),
         ('SEO', '/academy/association-search-engine-optimization-certificate-course/'),
-        ('All Access Pass', '/academy/all-access-pass/'),
         ('Credentials', '/academy/credentials/'),
     ]),
     ('Mailchimp', '/mailchimp/', [
@@ -311,7 +311,6 @@ MENUS = [
         ('AMS Connector', '/hubspot/hubspot-ams-connector/'),
         ('Evolution Coaching', '/hubspot/hubspot-evolution-coaching/'),
         ('Preferences Portal', '/hubspot/hubspot-preferences-portal/'),
-        ('Sales Partnership', '/hubspot/hubspot-sales-partnership/'),
     ]),
     ('Cases', '/cases/', [
         ('Member Research', '/cases/?service=Member+Research'),
@@ -320,11 +319,9 @@ MENUS = [
         ('Tech and AI Roadmaps', '/cases/?service=Tech+and+AI+Roadmaps'),
         ('Fractional Staffing and Training', '/cases/?service=Fractional+Staffing+and+Training'),
         ('HubSpot', '/cases/?service=HubSpot'),
-        ('Mailchimp', '/cases/?service=Mailchimp'),
     ]),
     ('About', '/about/', [
         ('Events', '/events/'),
-        ('Software Partners', '/software-partners/'),
         ('Connect with Chris', '/connect-with-chris-gloede/'),
         ("Let's Talk", '/lets-talk/'),
     ]),
@@ -415,9 +412,32 @@ def nav_markup(cta_href, ident='rico-dd'):
     return '\n'.join(parts)
 
 
+def _cta_href(page_id, current=None):
+    if page_id in NO_LT_PAGES:
+        if current and current.rstrip('/') not in ('/lets-talk', ''):
+            return current
+        return 'https://www.schedulechris.com'
+    return LETS_TALK
+
+
+def _refresh_nav(h, page_id):
+    """page already converted: rebuild the menu, CSS and script from the current MENUS."""
+    i = h.index('<nav class="rico-nav"')
+    j = h.index('</nav>', i) + len('</nav>')
+    cur = re.search(r'<a class="rico-cta" href="([^"]*)"', h[i:j])
+    open_tag = h[i:h.index('>', i) + 1]
+    h = h[:i] + open_tag + '\n' + nav_markup(_cta_href(page_id, cur.group(1) if cur else None)) + '\n</nav>' + h[j:]
+    h = re.sub(r'<style id="rico-nav-css">.*?</style>', lambda m: NAV_CSS, h, count=1, flags=re.S)
+    h = re.sub(r'<script id="rico-nav-js">.*?</script>', lambda m: NAV_JS, h, count=1, flags=re.S)
+    return h
+
+
 def add_nav_dropdowns(h, page_id=None, report=None):
-    if 'rico-nav' in h:  # already converted: keep the CTA href rule current
-        return h
+    if '<nav class="rico-nav"' in h:
+        out = _refresh_nav(h, page_id)
+        if report is not None and out != h:
+            report['nav'] = True
+        return out
     root = parse(h)
     hdr = next((e for e in root.walk() if e.tag == 'header'), None)
     if hdr is None:
@@ -430,19 +450,12 @@ def add_nav_dropdowns(h, page_id=None, report=None):
     if labels[:6] != [m[0] for m in MENUS]:
         return h
     cta = links[6] if len(links) > 6 else None
-    cta_href = LETS_TALK
-    if page_id in NO_LT_PAGES:
-        cta_href = cta.get('href') if cta is not None else 'https://www.schedulechris.com'
-        if cta_href.rstrip('/') in ('/lets-talk', ''):
-            cta_href = 'https://www.schedulechris.com'
-    open_tag = h[nav.start:nav.open_end]
-    open_tag = open_tag.replace('<nav ', '<nav class="rico-nav" ', 1)
-    new_nav = open_tag + '\n' + nav_markup(cta_href) + '\n</nav>'
-    out = h[:nav.start] + new_nav + h[nav.end:]
-    # CSS before the header, script after it
-    i = out.index('<header', max(0, hdr.start - 10))
-    out = out[:i] + NAV_CSS + out[i:]
-    j = out.index('</header>', i) + len('</header>')
+    cta_href = _cta_href(page_id, cta.get('href') if cta is not None else None)
+    open_tag = h[nav.start:nav.open_end].replace('<nav ', '<nav class="rico-nav" ', 1)
+    out = h[:nav.start] + open_tag + '\n' + nav_markup(cta_href) + '\n</nav>' + h[nav.end:]
+    # CSS right before the header, script right after it
+    out = out[:hdr.start] + NAV_CSS + out[hdr.start:]
+    j = out.index('</header>', hdr.start + len(NAV_CSS)) + len('</header>')
     out = out[:j] + NAV_JS + out[j:]
     if report is not None:
         report['nav'] = True
@@ -470,6 +483,94 @@ def meet_links(h, page_id=None, report=None):
     return splice(h, edits) if edits else h
 
 
+# ---------------------------------------------------------------- Fix 4
+# Client logo tiles (200x104, Home marquee): equal visual weight. Each logo's trimmed
+# content box is sized to the NSTA/NTMA average area (5230 px2), capped at 72% of
+# tile width and 46% of tile height. Values: element width, height, translate x, y.
+LOGO_SIZES = {
+    'aao-hns-american-academy-of-otolaryngology-head-and-neck-surgery-logo.webp': (144, 34, 0, 0),
+    'aapa-american-academy-of-physician-associates-logo.webp': (93, 48, 0, 0),
+    'acep-american-college-of-emergency-physicians-logo.webp': (144, 27, 0, 0),
+    'adlm-association-for-diagnostics-and-laboratory-medicine-logo.webp': (144, 26, 0, 0),
+    'aenc-association-executives-of-north-carolina-logo.webp': (114, 46, 0, 0),
+    'anitab-org-logo.webp': (138, 38, 0, 0),
+    'ans-american-nuclear-society-logo.webp': (89, 48, 0, 0),
+    'aota-american-occupational-therapy-association-logo.webp': (144, 28, 0, 1.7),
+    'ara-american-retirement-association-logo.webp': (140, 38, 0, 0),
+    'asco-american-society-of-clinical-oncology-logo.webp': (141, 38, 0, 0),
+    'bscai-building-service-contractors-association-international-logo.webp': (145, 26, 0, 0),
+    'cha-catholic-health-association-logo.webp': (114, 46, 0, 0),
+    'cms-colorado-medical-society-logo.webp': (144, 33, 0, 0),
+    'corenet-global-logo.webp': (144, 31, 0, 0),
+    'crew-network-logo.webp': (126, 41, 0, 0),
+    'cvma-colorado-veterinary-medical-association-logo.webp': (102, 48, 0, 0),
+    'dcpa-logo.webp': (139, 38, 0, 0),
+    'fei-financial-executives-international-logo.webp': (118, 44, 0, 0),
+    'felinevma-feline-veterinary-medical-association-logo.webp': (144, 29, 0, 0),
+    'ficpa-florida-institute-of-cpas-logo.webp': (115, 46, 0, 0),
+    'finseca-logo.webp': (129, 41, 0, 0),
+    'hardi-heating-air-conditioning-and-refrigeration-distributors-international-logo.webp': (132, 41, 0, 0),
+    'hfa-home-furnishings-association-logo.webp': (143, 37, 0, 0),
+    'iaee-international-association-of-exhibitions-and-events-logo.webp': (144, 24, 0, 0),
+    'icf-international-coaching-federation-logo.webp': (145, 37, 0, 0),
+    'iiaba-independent-insurance-agents-and-brokers-of-america-logo.webp': (144, 28, 0, 0),
+    'isa-international-sign-association-logo.webp': (112, 47, 0, 0),
+    'leadingage-logo.webp': (133, 40, 0, 0),
+    'mipi-alliance-logo.webp': (144, 35, 0, 0),
+    'nata-national-athletic-trainers-association-logo.webp': (116, 46, 0, 0),
+    'ncacpa-north-carolina-association-of-cpas-logo.webp': (76, 48, 0, 0),
+    'ncada-north-carolina-association-of-defense-attorneys-logo.webp': (144, 29, 0, 0),
+    'ncan-national-college-attainment-network-logo.webp': (94, 48, 0, 0),
+    'njcpa-new-jersey-society-of-cpas-logo.webp': (145, 27, 0, 0),
+    'nsta-national-science-teaching-association-logo.webp': (190, 71, 0, -1.4),
+    'ntma-national-tooling-and-machining-association-logo.webp': (144, 28, 0, 0),
+    'payo-payroll-org-logo.webp': (100, 48, 0, 0),
+    'rh-isac-retail-and-hospitality-isac-logo.webp': (144, 28, 0, 0),
+    'rotary-international-logo.webp': (119, 44, 0, 0),
+    'saba-san-antonio-bar-association-logo.webp': (144, 29, 0, 0),
+    'sfn-society-for-neuroscience-logo.webp': (132, 40, 0, 0),
+    'sifma-securities-industry-and-financial-markets-association-logo.webp': (100, 48, 0, 0),
+    'smithbucklin-logo.webp': (144, 19, 0, 0),
+    'vmae-veterinary-medical-association-executives-logo.webp': (111, 48, 0, 0),
+    'wcet-wiche-cooperative-for-educational-technologies-logo.webp': (126, 42, 0, 0),
+    'wscpa-washington-society-of-cpas-logo.webp': (145, 31, 0, 0),
+}
+OLD_TILE_IMG = 'style="width: 100%; height: 76px; object-fit: contain; display: block;"'
+TILE_IMG_RE = re.compile(r'<img src="([^"]*?/([^/"]+\.webp))"([^>]*?)style="(?:width: 100%; height: 76px; object-fit: contain; display: block;|flex: none; width: \d+px; height: \d+px; display: block;(?: transform: translate\([^)]*\);)?)"')
+
+
+def logo_style(fname):
+    z = LOGO_SIZES.get(fname)
+    if not z:
+        return None
+    w, hh, tx, ty = z
+    tf = f' transform: translate({tx}px, {ty}px);' if (tx or ty) else ''
+    return f'flex: none; width: {w}px; height: {hh}px; display: block;{tf}'
+
+
+def standardize_logos(h, report=None):
+    i = h.find('class="rico-marquee"')
+    if i < 0:
+        return h
+    j = h.find('</section>', i)
+    j = len(h) if j < 0 else j
+    seg = h[i:j]
+    n = [0]
+
+    def rep(m):
+        st = logo_style(m.group(2))
+        if st is None:
+            return m.group(0)
+        new = f'<img src="{m.group(1)}"{m.group(3)}style="{st}"'
+        if new != m.group(0):
+            n[0] += 1
+        return new
+    seg2 = TILE_IMG_RE.sub(rep, seg)
+    if report is not None:
+        report['logos_resized'] = report.get('logos_resized', 0) + n[0]
+    return h[:i] + seg2 + h[j:]
+
+
 def apply(h, page_id=None, report=None):
     try:
         page_id = int(page_id) if page_id is not None else None
@@ -478,4 +579,5 @@ def apply(h, page_id=None, report=None):
     h = add_nav_dropdowns(h, page_id, report)
     h = meet_links(h, page_id, report)
     h = link_card_images(h, report)
+    h = standardize_logos(h, report)
     return h
