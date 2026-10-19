@@ -332,6 +332,8 @@ SCHEDULE_RE = re.compile(r'^https?://(www\.)?schedulechris\.com/?$')
 NO_LT_PAGES = {10313, 10477}  # Let's Talk and its thank-you: /lets-talk/ would loop there
 
 NAV_CSS = '''<style id="rico-nav-css">
+.rico-page>p:empty,.rico-page>br,.rico-page>p>br:only-child{display:none}
+.rico-page>header,.rico-page>section,.rico-page>footer{margin-top:0;margin-bottom:0}
 .rico-nav{display:flex;gap:28px;align-items:center;flex-wrap:wrap}
 .rico-nav .rico-dd{position:relative;display:flex;align-items:center}
 .rico-nav .rico-dd>a{color:#FFFFFF;font-weight:700;font-size:16px;text-decoration:none;display:inline-flex;align-items:center;min-height:44px}
@@ -363,7 +365,7 @@ NAV_CSS = '''<style id="rico-nav-css">
 }
 </style>'''
 
-# no "&&" anywhere: WordPress mangles it inside wp:html
+# no double ampersand anywhere: WordPress mangles it inside wp:html
 NAV_JS = '''<script id="rico-nav-js">
 (function(){
 var nav=document.querySelector('.rico-nav');
@@ -571,6 +573,31 @@ def standardize_logos(h, report=None):
     return h[:i] + seg2 + h[j:]
 
 
+# ---------------------------------------------------------------- Fix 5
+# Pages stored as plain HTML run through wpautop, which drops <p>/<br> around inline
+# scripts, the header button and JSON-LD and opens white gaps between components.
+# Wrapping the page in one core/html block turns wpautop off for it. The block
+# mangles a double ampersand, so known filter code is rewritten first.
+AMP_FIXES = [(
+    "return(!s.value||c.dataset.s.split('|').indexOf(s.value)>-1)&&(!m.value||c.dataset.m===m.value)&&(!i.value||c.dataset.i===i.value);",
+    "if(s.value){if(c.dataset.s.split('|').indexOf(s.value)<0){return false;}}if(m.value){if(c.dataset.m!==m.value){return false;}}if(i.value){if(c.dataset.i!==i.value){return false;}}return true;",
+)]
+
+
+def wrap_html_block(h, report=None):
+    if h.lstrip().startswith('<!-- wp:'):
+        return h
+    for a, b in AMP_FIXES:
+        h = h.replace(a, b)
+    if '&' + '&' in h:
+        if report is not None:
+            report['wrap_skipped_amp'] = True
+        return h
+    if report is not None:
+        report['wrapped'] = True
+    return '<!-- wp:html -->\n' + h.strip('\n') + '\n<!-- /wp:html -->'
+
+
 def apply(h, page_id=None, report=None):
     try:
         page_id = int(page_id) if page_id is not None else None
@@ -580,4 +607,5 @@ def apply(h, page_id=None, report=None):
     h = meet_links(h, page_id, report)
     h = link_card_images(h, report)
     h = standardize_logos(h, report)
+    h = wrap_html_block(h, report)
     return h
