@@ -1,0 +1,1101 @@
+{
+ "run": "2026-10-18 (first pass linked cards and Let's talk links; later passes refreshed the menu, wrapped pages in one HTML block, resized Home logos, added the mobile menu button and download form CSS)",
+ "sitefix_commit": "2d27227a575fd0f47b7b9e0c003625f6edff7daf",
+ "pages": {
+  "9604": {
+   "changed": false,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": false,
+   "readback_match": null
+  },
+  "9605": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9606": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9607": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9608": {
+   "changed": true,
+   "cards_linked": 5,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9609": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9610": {
+   "changed": true,
+   "cards_linked": 8,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9704": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9705": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9707": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9717": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9908": {
+   "changed": true,
+   "cards_linked": 4,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9909": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9910": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9911": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9912": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9913": {
+   "changed": true,
+   "cards_linked": 1,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9914": {
+   "changed": true,
+   "cards_linked": 1,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9915": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9916": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9917": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9918": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9919": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9924": {
+   "changed": true,
+   "cards_linked": 4,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9925": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9926": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9927": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9951": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9952": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9953": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9954": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9955": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9956": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9957": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9958": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9959": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9960": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9961": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9962": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9963": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9964": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9965": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9966": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9967": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9968": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9969": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9970": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9971": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9972": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9973": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9974": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9975": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9976": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9977": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9978": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9979": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9980": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9981": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9982": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9983": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9984": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9985": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9986": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9987": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9988": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9989": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9990": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9991": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9992": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9993": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9994": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9995": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9996": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9997": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9998": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "9999": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10015": {
+   "changed": true,
+   "cards_linked": 4,
+   "meet_links_to_lets_talk": 2,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10031": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10032": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10033": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10034": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10035": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10036": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10037": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10038": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10039": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10040": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10041": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10042": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10043": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10044": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10045": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10046": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10047": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10048": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10049": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10050": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10051": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10052": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10053": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10054": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10055": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10056": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10057": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10058": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10059": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10060": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10061": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10062": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10063": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10064": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10065": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10066": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10067": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10068": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10069": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10070": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10071": {
+   "changed": true,
+   "cards_linked": 2,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10115": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10116": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10312": {
+   "changed": true,
+   "cards_linked": 6,
+   "meet_links_to_lets_talk": 1,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10313": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10441": {
+   "changed": true,
+   "cards_linked": 17,
+   "meet_links_to_lets_talk": 1,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10442": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10443": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10444": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10445": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10446": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10447": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10448": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10474": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10475": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10476": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10477": {
+   "changed": true,
+   "cards_linked": 1,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10486": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "10487": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 1,
+   "nav_dropdowns": true,
+   "readback_match": true
+  },
+  "11013": {
+   "changed": false,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": false,
+   "readback_match": null,
+   "note": "redirect stub, no header"
+  },
+  "11014": {
+   "changed": false,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": false,
+   "readback_match": null,
+   "note": "redirect stub, no header"
+  },
+  "11249": {
+   "changed": false,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": false,
+   "readback_match": null,
+   "note": "redirect stub, no header"
+  },
+  "11015": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11016": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11017": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11018": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11019": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11020": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11021": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11022": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11251": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11253": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11255": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11257": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  },
+  "11259": {
+   "changed": true,
+   "cards_linked": 0,
+   "meet_links_to_lets_talk": 0,
+   "nav_dropdowns": true,
+   "readback_match": true,
+   "note": "new cases sub-landing draft, menu refreshed in final pass"
+  }
+ },
+ "sitefix_commit_final": "033a2a7e0053c31da5d2d8ec8d418bf1d93c8a03",
+ "final_pass": {
+  "drafts_scanned": 152,
+  "changed": 148,
+  "unchanged": [
+   9604,
+   11013,
+   11014,
+   11249
+  ],
+  "readback_mismatches": 0,
+  "home_logos_resized": {
+   "9610": 92
+  }
+ }
+}
