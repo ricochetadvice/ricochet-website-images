@@ -321,7 +321,7 @@ MENUS = [
         ('Fractional Staffing and Training', '/service-types/fractional-leadership-and-training/'),
         ('HubSpot', '/service-types/hubspot-automation/'),
         ('#By member type', None),
-        ('Professional associations', '/association-types/individual/'),
+        ('Professional associations', '/association-types/professional/'),
         ('Trade associations', '/association-types/trade/'),
         ('#By industry', None),
         ('Finance', '/association-industry/finance/'),
