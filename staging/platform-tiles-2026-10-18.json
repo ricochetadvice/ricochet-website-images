@@ -1,0 +1,163 @@
+{
+ "date": "2026-10-18",
+ "rule": "HubSpot pages use the orange tiles, Mailchimp pages the yellow tiles; Ricochet navy everywhere else. Front view only.",
+ "colors": {
+  "hubspot-orange": {
+   "tile": "#FF7A59",
+   "symbol": "#FFF1E9"
+  },
+  "mailchimp-yellow": {
+   "tile": "#FFE01B",
+   "symbol": "#241C15"
+  }
+ },
+ "media": {
+  "hubspot-orange-people-icon": {
+   "id": 10946,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-people-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-funnel-icon": {
+   "id": 10948,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-funnel-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-rocket-icon": {
+   "id": 10950,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-rocket-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-tools-icon": {
+   "id": 10952,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-tools-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-ethernet-plug-icon": {
+   "id": 11493,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-ethernet-plug-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-circular-arrows-icon": {
+   "id": 11494,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-circular-arrows-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-easel-chart-icon": {
+   "id": 11495,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-easel-chart-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-sliders-icon": {
+   "id": 11496,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-sliders-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-shield-icon": {
+   "id": 11497,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-shield-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-calendar-icon": {
+   "id": 11498,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-calendar-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-gears-icon": {
+   "id": 11499,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-gears-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-smartphone-icon": {
+   "id": 11500,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-smartphone-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-light-bulb-icon": {
+   "id": 11501,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-light-bulb-icon.webp",
+   "alt": ""
+  },
+  "hubspot-orange-checklist-icon": {
+   "id": 11502,
+   "url": "/wp-content/uploads/2026/10/hubspot-orange-checklist-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-rocket-icon": {
+   "id": 11503,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-rocket-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-ethernet-plug-icon": {
+   "id": 11504,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-ethernet-plug-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-light-bulb-icon": {
+   "id": 11505,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-light-bulb-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-shield-icon": {
+   "id": 11506,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-shield-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-people-icon": {
+   "id": 11507,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-people-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-checklist-icon": {
+   "id": 11508,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-checklist-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-gears-icon": {
+   "id": 11509,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-gears-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-easel-chart-icon": {
+   "id": 11510,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-easel-chart-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-tools-icon": {
+   "id": 11511,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-tools-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-circular-arrows-icon": {
+   "id": 11512,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-circular-arrows-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-sliders-icon": {
+   "id": 11513,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-sliders-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-megaphone-icon": {
+   "id": 11514,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-megaphone-icon.webp",
+   "alt": ""
+  },
+  "mailchimp-yellow-calendar-icon": {
+   "id": 11515,
+   "url": "/wp-content/uploads/2026/10/mailchimp-yellow-calendar-icon.webp",
+   "alt": ""
+  }
+ },
+ "pages": {
+  "9908": 4,
+  "9909": 12,
+  "9910": 5,
+  "9911": 4,
+  "9912": 5,
+  "9913": 1,
+  "9924": 3,
+  "9925": 12,
+  "9926": 6,
+  "9927": 4
+ }
+}
