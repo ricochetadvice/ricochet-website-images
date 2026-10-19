@@ -350,11 +350,11 @@ NAV_CSS = '''<style id="rico-nav-css">
 .rico-nav a:focus-visible,.rico-nav .rico-dd-btn:focus-visible{outline:3px solid #F0A500;outline-offset:2px}
 .rico-nav .rico-dd:hover>.rico-dd-panel,.rico-nav .rico-dd:focus-within>.rico-dd-panel,.rico-nav .rico-dd.is-open>.rico-dd-panel{opacity:1;visibility:visible;transform:none}
 .rico-nav .rico-dd.is-closed>.rico-dd-panel{opacity:0;visibility:hidden}
-.rico-nav .rico-cta{display:inline-flex;align-items:center;gap:0;min-height:48px;padding:0 24px;background:#D91A36;color:#FFFFFF;border-radius:4px;font-weight:700;font-size:17px;text-decoration:none;transition:background-color .15s,transform .15s,box-shadow .15s,gap .15s}
+.rico-nav .rico-cta{display:inline-flex;align-items:center;justify-content:center;gap:0;min-height:48px;padding:0 35px;background:#D91A36;color:#FFFFFF;border-radius:4px;font-weight:700;font-size:17px;text-decoration:none;transition:background-color .15s,transform .15s,box-shadow .15s,gap .15s,padding .15s}
 .rico-nav .rico-cta .rico-cta-arrow{display:inline-block;width:0;overflow:hidden;opacity:0;transform:translateX(-6px);transition:width .15s,opacity .15s,transform .15s}
-.rico-nav .rico-cta:hover,.rico-nav .rico-cta:focus-visible{background:#B3142C;opacity:1;transform:translateY(-2px);box-shadow:0 6px 16px rgba(217,26,54,0.35);gap:8px}
+.rico-nav .rico-cta:hover,.rico-nav .rico-cta:focus-visible{background:#B3142C;opacity:1;transform:translateY(-2px);box-shadow:0 6px 16px rgba(217,26,54,0.35);gap:8px;padding:0 24px}
 .rico-nav .rico-cta:hover .rico-cta-arrow,.rico-nav .rico-cta:focus-visible .rico-cta-arrow{width:14px;opacity:1;transform:none}
-@media (prefers-reduced-motion:reduce){.rico-nav .rico-dd-panel,.rico-nav .rico-dd-btn svg,.rico-nav .rico-cta,.rico-nav .rico-cta .rico-cta-arrow{transition:none}.rico-nav .rico-cta:hover,.rico-nav .rico-cta:focus-visible{transform:none;box-shadow:none;gap:0}.rico-nav .rico-cta:hover .rico-cta-arrow,.rico-nav .rico-cta:focus-visible .rico-cta-arrow{width:0;opacity:0}}
+@media (prefers-reduced-motion:reduce){.rico-nav .rico-dd-panel,.rico-nav .rico-dd-btn svg,.rico-nav .rico-cta,.rico-nav .rico-cta .rico-cta-arrow{transition:none}.rico-nav .rico-cta:hover,.rico-nav .rico-cta:focus-visible{transform:none;box-shadow:none;gap:0;padding:0 35px}.rico-nav .rico-cta:hover .rico-cta-arrow,.rico-nav .rico-cta:focus-visible .rico-cta-arrow{width:0;opacity:0}}
 @media (max-width:767px){
 .rico-nav{width:100%;flex-direction:column;align-items:stretch!important;gap:0!important}
 .rico-nav .rico-dd{flex-wrap:wrap;justify-content:space-between;border-bottom:1px solid rgba(255,255,255,0.12)}
