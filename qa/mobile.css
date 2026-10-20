@@ -6,9 +6,10 @@
 /* Rows of two or more equal columns stack */
 .rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"]):not([style*="flex-wrap: wrap"]):has(> [style*=" 1 0;"] ~ [style*=" 1 0;"]),
 .rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"]):not([style*="flex-wrap: wrap"]):has(> [style*=" 1 0;"] ~ [style$=" 1 0"]),
-.rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"]):has(> [style*="flex: 0 0 230px"],> [style*="flex: 0 0 420px"],> [style*="flex: 0 0 440px"],> [style*="flex: 0 0 46%"]){flex-direction:column!important;align-items:stretch!important;height:auto!important}
-.rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"])>:is([style*=" 1 0;"],[style$=" 1 0"],[style*="flex: 0 0 230px"],[style*="flex: 0 0 420px"],[style*="flex: 0 0 440px"]){flex:none!important;width:100%!important;max-width:100%!important}
+.rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"]):has(> [style*="flex: 0 0 230px"],> [style*="flex: 0 0 420px"],> [style*="flex: 0 0 440px"],> [style*="flex: 0 0 46%"],> [style*="flex:0 0 440px"],> [style*="flex:0 0 420px"]){flex-direction:column!important;align-items:stretch!important;height:auto!important}
+.rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"])>:is([style*=" 1 0;"],[style$=" 1 0"],[style*="flex: 0 0 230px"],[style*="flex: 0 0 420px"],[style*="flex: 0 0 440px"],[style*="flex:0 0 440px"],[style*="flex:0 0 420px"]){flex:none!important;width:100%!important;max-width:100%!important}
 .rico-page main section:not(:first-of-type) img{max-width:100%!important}
+.rico-page main [style*="flex: 0 0 440px"]>img{width:86%!important}
 /* Case cards: photo on top */
 .rico-page main a[style*="height: 210px"]>[style*="flex: 0 0 46%"]{flex:none!important;width:100%!important;height:170px!important}
 .rico-page main a[style*="height: 210px"] img{width:100%!important;height:100%!important;object-fit:cover!important}
