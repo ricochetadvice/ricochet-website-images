@@ -1,0 +1,36 @@
+/* Ricochet phone layout fixes (2026-10-20). Loaded sitewide after page CSS. */
+@media (max-width:767px){
+/* Hero: no background image on phones; the section's own color shows */
+.rico-page main>section:first-of-type img[style*="position: absolute"][style*="inset: 0"]{display:none!important}
+.rico-page main>section:first-of-type img.rico-acad-hero-img{display:none!important}
+/* Rows of two or more equal columns stack */
+.rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"]):not([style*="flex-wrap: wrap"]):has(> [style*=" 1 0;"] ~ [style*=" 1 0;"]),
+.rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"]):not([style*="flex-wrap: wrap"]):has(> [style*=" 1 0;"] ~ [style$=" 1 0"]),
+.rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"]):has(> [style*="flex: 0 0 230px"],> [style*="flex: 0 0 420px"],> [style*="flex: 0 0 440px"],> [style*="flex: 0 0 46%"]){flex-direction:column!important;align-items:stretch!important;height:auto!important}
+.rico-page main :is(div,ul,ol,a)[style*="display: flex"]:not([style*="flex-direction: column"])>:is([style*=" 1 0;"],[style$=" 1 0"],[style*="flex: 0 0 230px"],[style*="flex: 0 0 420px"],[style*="flex: 0 0 440px"]){flex:none!important;width:100%!important;max-width:100%!important}
+.rico-page main section:not(:first-of-type) img{max-width:100%!important}
+/* Case cards: photo on top */
+.rico-page main a[style*="height: 210px"]>[style*="flex: 0 0 46%"]{flex:none!important;width:100%!important;height:170px!important}
+.rico-page main a[style*="height: 210px"] img{width:100%!important;height:100%!important;object-fit:cover!important}
+/* Instructor photo: sensible height */
+.rico-page main [style*="min-height: 480px"]{min-height:300px!important;background-position:center top!important}
+/* Grids go to one column; logo tile grids go to two */
+.rico-page main ul[style*="grid-template-columns"],.rico-page main div[style*="grid-template-columns"]{grid-template-columns:1fr!important}
+.rico-page main ul[style*="grid-template-columns"]:has(> li > img:only-child){grid-template-columns:repeat(2,minmax(0,1fr))!important}
+/* All Access Pass course rows: name, dates and credits stacked, price and Included on one line */
+.rico-page main li[style*="grid-template-columns: minmax(0, 2.2fr)"]{grid-template-columns:1fr auto!important;row-gap:4px!important}
+.rico-page main li[style*="grid-template-columns: minmax(0, 2.2fr)"]>:nth-child(-n+3){grid-column:1/-1}
+/* Countdown timers fit */
+.rico-page main [style*="min-width: 84px"]{min-width:58px!important}
+.rico-page main [style*="font-variant-numeric: tabular-num"]{font-size:32px!important}
+.rico-page main div[style*="px 48px"]{padding-left:20px!important;padding-right:20px!important}
+.rico-page main div[style*="padding: 16px 48px"]{flex-wrap:wrap!important}
+/* Wide data tables scroll sideways inside their box */
+.rico-page main table:not([style*="min-width"]){display:block!important;overflow-x:auto!important;-webkit-overflow-scrolling:touch}
+.rico-page main table:not([style*="min-width"]) th,.rico-page main table:not([style*="min-width"]) td{min-width:110px}
+/* Email example: long values wrap */
+.rico-page main [style*="max-width: 1040px"][style*="border: 1px solid #D1D5DB"] *{overflow-wrap:anywhere}
+.rico-page main div[style*="padding: 10px 32px 32px"]{padding-left:18px!important;padding-right:18px!important}
+/* Services hub: image always above the text */
+body.page-id-9608 .rico-page main section>div[style*="display: flex"]>a:has(> img){order:-1}
+}
