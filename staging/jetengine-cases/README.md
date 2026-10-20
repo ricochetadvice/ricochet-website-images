@@ -15,7 +15,7 @@ Staging6 build, 2026-10-18. All page edits are on drafts. Nothing was published 
 
 ## Adding a case later
 
-Create a child page of Cases with the case content, tick its Service Types, Association Types and Association Industry terms, set the featured image, fill Case logo and alt, and set Case card photo (`case_card_photo`): a crop of the photo only, with no title text, since the old featured images have the title baked in. Crops: `staging/case-card-photos/` (x 504 to 1200 of the 1200x628 featured image). It appears on the landing (with filtering) and on every matching sub-landing. A brand-new service term also needs an option added to filter 11894 and a `card_label`.
+Create a child page of Cases with the case content, tick its Service Types, Association Types and Association Industry terms, set the featured image, fill Case logo and alt, and set Case card photo (`case_card_photo`): a 696x628 crop of the clean source photo (no title text, no lumens). Source photos: Drive > Cases > Case Industry Images ("Client [Org].jpeg"). Crops: `staging/case-card-photos/` (2026-10-20: rebuilt from the clean sources, same framing as the old lumens crops). It appears on the landing (with filtering) and on every matching sub-landing. A brand-new service term also needs an option added to filter 11894 and a `card_label`.
 
 ## Build scripts
 
